@@ -95,3 +95,177 @@ https://krebsonsecurity.com/tag/dev-0537/
 https://snyk.io/blog/unintimidating-intro-to-c-cpp-vulnerabilities/
 https://www.cvedetails.com/cve/CVE-2002-0639/
 https://www.nature.com/articles/s41586-022-05261-4
+
+
+############################
+####### Other pt 3 #########
+	**Mitnick Invisibility**
+			**NameDrop Index**
+      
+//Chapter 1
+//Chapter 2		
+//Chapter 3	
+//Chapter 4	
+//Chapter 5	
+			//Chapter 6	
+>DreamHost (ISP)
+>comScore,
+>AppNexus,
+>AddThis,
+>Quantcast,
+>Experian
+>Axiom
+>Drawbridge
+>Tapad
+>Oracle's Crosswise
+>panopticlick.com(browser-info)
+>WebMD (Hospital site)
+>Wired.com
+>NoScript extension ffox
+>ScritpBlock extension chrome
+>TorGuard
+>AdBlock Plus
+>Ghostery
+>IMSI mobile
+>UIDH - Unique IDentifier Header
+>Cookies first used by Netscape
+>Cookies are segmented to each their own website info
+>Customer Record Management system (CRM)
+>piriform.com/ccleaner (Cookies cleaner tool)
+>Samy Kamkar created MySpace worm & Evercookie
+>OAuth authentication protocol (sign-in with facebook)
+
+>Trackers
+one-pixel image
+javascript
+cookies
+iframes
+canvas fingerprinting
+
+>CanvasBlocker extension for ffox
+>CanvasFingerprintingBlock extension for chrome
+>Facebook Disconect extension chrome
+>Facebook Privacy List in AdBlocker
+	
+	
+			//Chapter 7	
+			//Chapter 8	
+			//Chapter 9
+
+>GlaxoSmithKline (Pharmaceutics)
+>Mark Loveless (Simple Nomad)
+
+>Image EXIF data
+(Foca 4 Windows)
+(Metagoofil 4 Linux)
+
+>Pittsburg Pattern Recognition
+(Faces data Pittpatt)
+
+>38 pages IRS training course surveilance
+(Freedom of Information Act)
+
+			//Chapter 10	
+>Face-Six (company)
+>Churchix recognition engine
+>Privacy visor glasses
+
+
+			//Chapter 11	
+
+>Charlie Miller & Chris Valasek hacks
+>Automobile GSM / CDMA data to Automaker's Systems via SMS text
+
+>OwnStar (car App)
+
+
+			//Chapter 12	
+>Philips hue lighting system (remote)
+>Insteon hub (Smart Home) >>
+>Dyn.com (provides servers for Twitter, Reddit, GitHub, Amazon.com, Netflix, Spotify, Runescape, Quora)
+
+>Nuance (samsung voice recog)
+>Sensory (voice recog)
+
+[spectrum analyzer for fruequency discovery 
+Demodulation scheme to convert  elect signals to audio]
+
+> GBsmartshare.lgtvsdp.com 
+(LG honeyp0t)
+
+>Shodan (IoT s3arch eng)
+
+>D-Link (public c4ms)
+
+
+				//Chapter 13	
+				
+PC/LAPTOP/IPHONE = firmware or OS (operating system)
+PRINTER/SMARTTV = fireware or RTOS (real time operating system)
+
+
+>Samy kamkar's KeySweeper
+
+(IMSI catch)
+>Femtocell
+>StingRay
+>TriggerFish
+>WolfPack
+>Gossamer
+>Swam box
+
+(Anti IMSI)
+>Pwn Pulse
+
+(Firewall setup)
+>H.323 protocol
+
+(Encryption)
+AES 256-bit = strong
+128-bit =mid
+
+
+(Cloud service)
+Shutterfly
+SpiderOlk
+Google drive
+Dropbox
+
+
+Tittle III order
+Prism (NSA monitor)
+TOMskype
+
+>Polycom's multipage hardening guide
+
+
+						//Chapter 14
+
+
+>syncstop.com
+(USB condom)
+
+>TrueCrypt software
+>VeraCrypt software
+
+>Tyvek envelop untemperable				
+
+>Bitlocker
+>PGP Whole disk encryption
+>WinMagic
+>FileVault 2
+
+>HTL card
+
+>Near-Field Communication (NFC)
+>Magnetic Strip
+>MagSpoof
+
+>Kaspersky lab
+DarkHotel (group)
+Tapaux (group)
+
+>Proxy/ham
+>ProxyGambit
+
+
