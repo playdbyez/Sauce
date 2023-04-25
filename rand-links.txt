@@ -100,7 +100,7 @@ https://www.nature.com/articles/s41586-022-05261-4
 ############################
 ####### Other pt 3 #########
 	**Mitnick Invisibility**
-			**NameDrop Index**
+			
       
 //Chapter 1
 //Chapter 2		
@@ -269,3 +269,21 @@ Tapaux (group)
 >ProxyGambit
 
 
+
+############################
+####### Other pt 3 #########
+	**John Viega Myths**
+
+Symentec
+Adobe's Action script ads
+Yankee Group report on the Hearse rootkit.(2007)
+cryptographic signature matching
+Folly/facebookAPI
+googletest
+Bruce Schneier
+BOOK: Applied Cryptography (John Wiley & Sons)
+“tested spyware free” /download.com 
+SiteAdvisor
+f-secure.com
+forums.spybot.info
+Airscanner Mobile Security
