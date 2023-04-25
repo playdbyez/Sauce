@@ -1,7 +1,7 @@
 ######################
 ####### Other #########
 
->rapidtables
+
 
 >stackoverflow.com/users/5053002/jaromanda-x
 
@@ -39,10 +39,13 @@
 
 >hspcx.blogspot.com/2021/05/derrubando-redes-wifi-com-airmon-ng-pdf.html>m=1
 
+>https://www.exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
+
+
 >bridges.torproject.org/options
 //TOR Bridges
 
->https://www.exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
+
 
 
 
@@ -62,7 +65,8 @@
 >developers.google.com/speed.pagespeed/insights
 
 zurb foundation6 book
-
+>rapidtables
+>vultr.com
 >rumble.com
 >avax.news
 >cw.com.tw
@@ -76,6 +80,8 @@ C++ CrashCorse Book
 https://ccc.codes/#errata
 
 ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/assignments/
+
+https://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
 
 
 news.uchicago.edu/story/university-chicago-scientists-discover-material-can-be-made-plastic-conducts-metal
