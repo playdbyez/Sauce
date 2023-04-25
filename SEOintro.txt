@@ -1,0 +1,95 @@
+#####################################################
+###### Search Engine Optimization Sites ############
+#####################################################
+
+
+//Keyword Research
+
+.soovle
+.googlekeywordplanner
+.wordstream.com/keywoordtools
+.ubersuggest.io
+====================================
+
+//Crawlers
+
+.deepcrawl
+.screamingfrog
+.robhammond'sseocrawlers
+===================================
+
+//Link Building
+
+.majesticseo
+.opensuite (moz)
+.rmoov (google disavow tool)
+===================================
+
+//Site Speed
+
+.gtmetrix
+.daraboost
+.google pagespeed
+.yahoo! yslow
+==================================
+
+//Content Optimization
+
+.grammarly
+.siteliner
+.hootsuite
+.buzzsumo
+===================================
+
+//Site Audits
+
+.woorank
+.seo sitecheckup
+==================================
+
+
+#####################################
+###### Social Media Marketing ######
+####################################
+
+//Features
+
+>Brand Awareness / Audience Catoring
+>Interactions / Ask Questions
+>Redirects / Have a Webpage
+>Promotions / Customer Promotion / News
+>Localization Features / Exclusivity For Business & Customers
+>Blogs, Wallpapers, Whitepapers, Case Studies, Ringtones, Stickers, Memes, Vacinity News, Fanpages, Reviews, Company Culture, Marketing News
+
+
+//Ranking Matrics
+
+>Content
+>Metadata
+>Semantics
+>Localization
+>Fonts
+>Refresh Rate
+>Bounce-off Rate
+>Tags
+>Links
+>Loading Time
+>Downloads
+
+
+
+
+#####################################
+###### Search Engines #############
+####################################
+
+>Google       >Yandex       >AOL
+>Bing         >Naver        >Ilse 
+>Baidu        >DeepDyve     >Lycos
+>Yahoo!       >DuckDuckGo   >WebDE
+>Goo          >Ask          >EarthLink
+>EntireWeb    >Seznam       >Qwant
+>Search.com   >Rambler      >Biglobe
+>Ecosia       >Dogpile      >Daum
+>Excite
+
