@@ -93,3 +93,82 @@
 >Ecosia       >Dogpile      >Daum
 >Excite
 
+
+
+
+############################################
+####### SEARCH ENGINE PROCESSES ##########
+###########################################
+
+
+		<1> Crawlers/Spiders
+	<2> Indexing
+<3> Searching
+
+
+//Crawlers
+Crawlers copy hyperlinks on sites to help update their index of content for its web engine.
+
+>Use robots.txt files.
+>Help with advertising your key-words.
+>Specify which pages of your site to index by the crawlers as pages not containing key-words as advertisements aren't relevant to crawlers.
+
+
+I.E.
+.googlebot
+.bingbot
+.sphinx
+
+
+
+
+
+//Indexing
+The process of engines colecting, parsing and storing data of websites to match search queries quicker
+
+
+>Vary from engine to engine.
+>Non-disclosed algorithms.
+>comes in two varieties
+
+=========================================================
+
+	>>Forward Indexing
+Lists webpages.
+Which words appear inside.
+
+(Page: Amazon)
+(Words: Buy, Review, Share, Deliver)
+
+
+
+	>>Inverted Indexing
+Lists words.
+Which webpages those words belong to.
+
+(Word: Review)
+(Pages: Youtube, Yelp, Amazon, Uber eats)
+
+=========================================================
+
+
+
+
+//Searching
+User enters relevant string of words to retrieve content from Search Engine Results, pre-indexed by spiders.
+Results are matched to search queries based in an non-disclosed algorithm used by the Search Engine for its results.
+
+
+	>>Navigational Search
+SPECIFIC to its end point to a website.
+(USER is SEARCHING)
+
+
+	>>Informational Search
+GENERIC to broaden knowledge in a topic.
+(USER is RESEARCHING)	
+
+	>>Transactional Search
+FOCUSED on transactions.
+(USER is BUYING)
+
