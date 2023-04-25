@@ -1,0 +1,52 @@
+To summarize, here's what you need to do to use the Internet privately while
+traveling:
+
+1.   Purchase prepaid gift cards anonymously (viabuy.com)
+
+2.   Use open Wi-Fi after changing your MAC address
+
+3.   Find an e-mail provider that allows you to sign up without SMS validation. 
+
+3.1. sign up for a Skype-in number using Tor and a prepaid gitt card (out of camera view)
+3.2. Use Tor to mask your location when you sign up for this e-mail service.
+
+4.   Using your new anonymous e-mail address, sign up for a Bitcoin wallet (paxful.com) 
+4.1. Pay for them using the prepaid gift cards.
+
+5.   Close and establish a new Tor circuit from first e-mail account and wallet.
+
+5.1. Set up a second anonymous e-mail address and new secondary wallet. 
+
+6.   Use a Bitcoin laundering service (bitlaunder.com)
+6.1. Have the laundered Bitcoin sent to the second Bitcoin address.
+
+7.   Sign up for a VPN service using the laundered Bitcoin that does not log traftic or P connections (e.g., TorGuard).
+
+8.   Have a cutout obtain a burner portable hotspot device on your behalf (Cash)
+
+9.   To access the Internet, use the burner hotspot device away from home,work, and your other cellular devices.
+
+10.  Once powered up, connect to VPN through the burner hotspot device.
+
+11.  Use Tor to browse the Internet.
+
+CONTINUATION::
+
+I. 	Compre um aparelho por alguem (notebook)
+
+II.	Nao tenha nenhuma conta com a Mcsft e proteja seu MAC, Cartao de Rede Wireless e o Numero Serial (Mac,WNC,SN)
+
+III. 	Baixe o Tails/CubesOS e o Tor (obvio)
+
+IV. 	Compre Cartoes de presente (mstrcrd, visa) e um telefoninho
+
+V. 	Compre um hotspot vindo da sua rede de celular
+
+VI. 	Mude seu mac a cada 30mins e nunca fique em apenas um lugar
+
+VII. 	Email no proton ou fastmail via tor (paxful.co) pra cartoes de presente
+
+VIII. 	Limpe as moedas da sua wallet com um Tumbler e envie-as para outra wallet
+
+IX. 	VM ? VPN ? Cloud ?
+
