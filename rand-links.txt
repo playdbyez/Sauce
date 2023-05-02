@@ -1,7 +1,31 @@
 ######################
 ####### Other #########
 
+>Symentec
 
+>Adobe's Action script ads
+
+>Yankee Group report on the Hearse rootkit.(2007)
+
+>cryptographic signature matching
+
+>Folly/facebookAPI
+
+>googletest
+
+>Bruce Schneier
+
+>BOOK: Applied Cryptography (John Wiley & Sons)
+
+>“tested spyware free” /download.com 
+
+>SiteAdvisor
+
+>f-secure.com
+
+>forums.spybot.info
+
+>Airscanner Mobile Security
 
 >stackoverflow.com/users/5053002/jaromanda-x
 
