@@ -107,6 +107,7 @@ ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/assignments/
 
 https://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
 
+https://drdobbs.com/extending-the-stl/184401912
 
 news.uchicago.edu/story/university-chicago-scientists-discover-material-can-be-made-plastic-conducts-metal
 
