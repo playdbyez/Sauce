@@ -1,0 +1,66 @@
+"An idiot admires complexity, a genius admires simplicity." --Terry Davis
+
+
+>Recommended operating systems
+General purpose: Fedora, K/L/Xubuntu, Debian, Arch Linux
+Security focused: Whonix, Tails, OpenBSD, Qubes OS
+
+>Recommended mobile operating systems
+Android based: GrapheneOS, CalyxOS, LineageOS/DivestOS
+Linux based: PureOS, postmarketOS
+
+>Recommended browsers
+Chromium based: Brave, Bromite (no update), ungoogled-chromium
+Firefox based: Firefox (w/user.js), IceCat, LibreWolf, Mull, Tor Browser
+
+
+>Advanced content blocking
+https://github.com/gorhill/uBlock/wiki/Blocking-mode:-medium-mode
+>Browser tests
+https://www.deviceinfo.me
+https://dnsleaktest.com
+https://librespeed.org
+https://privacytests.org
+https://time.gov
+
+>Privacy friendly frontends
+https://wiki.installgentoo.com/wiki/Privacy_friendly_frontends
+
+
+>Recommended search engines
+Brave Search, DuckDuckGo, Searx, Startpage
+
+
+>Privacy oriented DNS
+https://adguard-dns.io/en/welcome.html
+https://nextdns.io
+https://www.quad9.net
+
+
+>Privacy oriented email
+ProtonMail, Tutanota, Disroot, mailbox.org, StartMail
+Cock.li, Riseup (invite only)
+>Recommended instant messengers
+Signal, Element, Session, Briar
+
+
+>BIOS replacement
+https://coreboot.org
+https://libreboot.org
+
+
+>Resources
+https://anonymousplanet.org/guide.html
+https://ssd.eff.org
+https://ffprofile.com
+https://ryf.fsf.org/products
+https://madaidans-insecurities.github.io
+https://haveibeenpwned.com
+https://inteltechniques.com/workbook.html
+https://eldritchdata.neocities.org
+https://www.privacytools.io
+https://sizeof.cat/links
+https://stallman.org/facebook.html
+
+
+Previous Thread: >>93344116
