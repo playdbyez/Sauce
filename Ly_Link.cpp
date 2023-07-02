@@ -90,6 +90,120 @@ http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion/
 >GuanXi networking
 http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/
 
+
+//
+
+>hostnamernd
+>macrnd
+>SED.py
+
+
+
+hostnamernd
+//A systemd service to randomize hostname to prevent local serveilance
+
+git clone http://pofst4hoyijmth3uzzd4lnmmivzdhesbhu32qit5sh5trrcflfma.b32.i2p/code/hostnamernd.git
+
+
+
+macrnd
+//A systemd service to randomize the macaddress on boot to prevent local serveilance
+
+git clone http://pofst4hoyijmth3uzzd4lnmmivzdhesbhu32qit5sh5trrcflfma.b32.i2p/code/macrnd.git
+
+
+
+Sed.py
+//A python implemntation of sed for pedagogical purposes. Don’t use this.
+
+git clone http://pofst4hoyijmth3uzzd4lnmmivzdhesbhu32qit5sh5trrcflfma.b32.i2p/code/sed.py
+
+
+
+*Places*
+follow the skate scene
+
+Tattoo
+
+Cold steel camden
+
+
+
+Museums 
+
+Tate Britain ✅
+Natural history museum ✅
+Tate modern ✅
+Victoria and albert
+British museum
+Victor and Wynd Museum (occult)£✅
+Royal observatory £15
+Sherlock Holmes museum
+Saatchi Gallerie
+London Film museum
+
+living
+Faculty of Medical Science  (UCL Area)
+
+Comics/Weeb
+
+Calamity Comics (YGO Fridays)
+Gosh! Comics✅
+Raygun comics (Richmond Topzera) ✅
+Comic shop 
+Forbidden planet megastore ✅
+Orbital comics
+Japan Craft // Camden Market (Anime merch) ✅
+
+
+RIFFCAVEN BRAZIL
+ANTI GRAVITY TUBE
+Big Easy ( Canary Wharf)
+Bang Bang Oriental Foodhall
+Sky Gardens (East)
+The World’s end camden ( Trooper beer/ iron meiden) 
+Cyberdog (camden) ✅
+Variant31 Holborn Toxico Intake
+Gaza Cafe
+Platform ( Finabury) VideoGame café
+Somerset House
+Lightbox Voxhall venue 
+Redbull Gaming Sphere (Shoreditch)
+Wild Ones (battersea) Tarot readings
+Shaka zulu ( Camden) 🌀
+Sushisamba ( High end)
+Assa Soho
+Taschen (Sloan square)
+Planet Hollywood (haymarket)
+Candy Cafe Soh0
+Taro SohO
+Electric Cinema (Nothing hill)
+The heart of Gaming FGC (Croydon)
+
+Carnaby / Kings district ✅
+Candem Arts centre
+Las Vegas soho ✅
+Cereal Killer Cafe (shoreditch)
+Cup Ramen Museum (Jpn/ yokohama)
+Science museum ✅
+Sea Life London £21
+
+London tombs (london bridge experience)
+
+Scape room at electric theatre 
+
+LGL Gaming Lounge (Neasden) tournament at 5pm Saturdays
+
+Vr mario Kart
+
+
+さ。。。
+行きましょうか？
+
+
+
+
+
 controlcdotco e8436ee8
 
 */
