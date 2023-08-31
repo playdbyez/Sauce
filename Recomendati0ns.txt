@@ -1,5 +1,7 @@
 "An idiot admires complexity, a genius admires simplicity." --Terry Davis
 
+>How to ask
+http://catb.org/~esr/faqs/smart-questions.html
 
 >Recommended operating systems
 General purpose: Fedora, K/L/Xubuntu, Debian, Arch Linux
