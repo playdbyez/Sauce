@@ -57,3 +57,13 @@ React - React-tutorial.app
 API - @rapid_API
 SQL - sqlbolt.com
 Blockchain - cryptozombies.io
+
+
+
+######## W eb 3 #######
+
+>hackasat.com/
+>code4rena.com/
+>immunefi.com/
+
+
