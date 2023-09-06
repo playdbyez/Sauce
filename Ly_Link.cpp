@@ -160,6 +160,7 @@ RIFFCAVEN BRAZIL
 ANTI GRAVITY TUBE
 Big Easy ( Canary Wharf)
 Bang Bang Oriental Foodhall
+Hefaure (Bubble Tea)
 Sky Gardens (East)
 The World’s end camden ( Trooper beer/ iron meiden) 
 Cyberdog (camden) ✅
@@ -177,6 +178,7 @@ Taschen (Sloan square)
 Planet Hollywood (haymarket)
 Candy Cafe Soh0
 Taro SohO
+Taro NFinchley
 Electric Cinema (Nothing hill)
 The heart of Gaming FGC (Croydon)
 
@@ -193,6 +195,8 @@ London tombs (london bridge experience)
 Scape room at electric theatre 
 
 LGL Gaming Lounge (Neasden) tournament at 5pm Saturdays
+FreePlayCity (Harringay)
+
 
 Vr mario Kart
 
