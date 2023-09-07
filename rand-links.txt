@@ -2,6 +2,7 @@
 ####### Other #########
 
 >Symentec
+(Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, CCleaner)
 
 >Adobe's Action script ads
 
@@ -14,7 +15,7 @@
 >googletest
 
 >Bruce Schneier
-
+>BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications
 >BOOK: Applied Cryptography (John Wiley & Sons)
 
 >“tested spyware free” /download.com 
