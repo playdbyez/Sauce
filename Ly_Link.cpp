@@ -136,7 +136,7 @@ Natural history museum ✅
 Tate modern ✅
 Victoria and albert
 British museum
-Victor and Wynd Museum (occult)£✅
+Victor and Wynd Museum £✅
 Royal observatory £15
 Sherlock Holmes museum
 Saatchi Gallerie
@@ -181,6 +181,7 @@ Taro SohO
 Taro NFinchley
 Electric Cinema (Nothing hill)
 The heart of Gaming FGC (Croydon)
+d20 Board Game Cafe (Uxbridge)
 
 Carnaby / Kings district ✅
 Candem Arts centre
