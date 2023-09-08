@@ -120,10 +120,10 @@ git clone http://pofst4hoyijmth3uzzd4lnmmivzdhesbhu32qit5sh5trrcflfma.b32.i2p/co
 
 
 
-*Places*
-follow the skate scene
+https://en.wikibooks.org/wiki/Shelf:Strategy_guides
 
-Tattoo
+
+*Places*
 
 Cold steel camden
 
