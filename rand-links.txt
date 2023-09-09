@@ -14,6 +14,8 @@
 
 >googletest
 
+>odysee.com
+
 >Bruce Schneier
 >BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications
 >BOOK: Applied Cryptography (John Wiley & Sons)
