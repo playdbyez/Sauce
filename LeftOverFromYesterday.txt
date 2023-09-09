@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=FoEO9p-J15w&list=PLSbhiuoC0XgUWuLUZ-hWOhcWFdthyu
 
 https://www.youtube.com/watch?v=gd7BXuUQ91w
 
-
+https://www.youtube.com/watch?v=Llsoo8LHhWg
 https://www.youtube.com/watch?v=VT2L1SXFq9U
 
 https://anicole.info/
 
-ps-aux
+
 
 Use Minicom to Interrupt Bootlog of a router, auto-Boot sequence in router
