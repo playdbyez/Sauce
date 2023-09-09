@@ -57,7 +57,7 @@ React - React-tutorial.app
 API - @rapid_API
 SQL - sqlbolt.com
 Blockchain - cryptozombies.io
-
+General - landchad.net/
 
 
 ######## W eb 3 #######
