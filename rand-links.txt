@@ -68,6 +68,7 @@
 
 >https://www.exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
 
+>https://www.loc.gov/preservation/digital/formats/fdd/fdd000412.shtml
 
 >bridges.torproject.org/options
 //TOR Bridges
