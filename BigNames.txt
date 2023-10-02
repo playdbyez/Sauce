@@ -60,7 +60,7 @@ API - @rapid_API
 SQL - sqlbolt.com
 Blockchain - cryptozombies.io
 General - landchad.net/
-
+Bash - kernelgrok.com/
 
 ######## W eb 3 #######
 
