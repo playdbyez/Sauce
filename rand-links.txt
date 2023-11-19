@@ -9,6 +9,7 @@
 >Yankee Group report on the Hearse rootkit.(2007)
 
 >cryptographic signature matching
+>https://www.cisa.gov/news-events/news/understanding-digital-signatures
 
 >Folly/facebookAPI
 
@@ -276,6 +277,7 @@ AES 256-bit = strong
 
 
 (Cloud service)
+Oracle
 Shutterfly
 SpiderOlk
 Google drive
