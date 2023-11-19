@@ -10,8 +10,6 @@
 
 >cryptographic signature matching
 
->https://www.cisa.gov/news-events/news/understanding-digital-signatures
->https://media.defense.gov/2023/Oct/05/2003314578/-1/-1/0/JOINT_CSA_TOP_TEN_MISCONFIGURATIONS_TLP-CLEAR.PDF
 
 >Folly/facebookAPI
 
@@ -42,6 +40,10 @@
 >dangerousprototypes.com/docs/Bus_Pirate
 
 >github.com/the-slash-bringing-sash-wringing/4chan_gettr
+
+>https://www.cisa.gov/news-events/news/understanding-digital-signatures
+
+>https://media.defense.gov/2023/Oct/05/2003314578/-1/-1/0/JOINT_CSA_TOP_TEN_MISCONFIGURATIONS_TLP-CLEAR.PDF
 
 >github.com/bmpasini/cardapios
 
