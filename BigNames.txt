@@ -57,8 +57,7 @@ JS - LearnJavaScript.online
 Git - LearnGitBranching.js.org
 React - React-tutorial.app
 API - @rapid_API
-SQL - sqlbolt.com
-Blockchain - cryptozombies.io
+SQL - sqlbolt.com 
 General - landchad.net/
 Bash - kernelgrok.com/
 
@@ -69,4 +68,26 @@ Bash - kernelgrok.com/
 >immunefi.com/
 >ashitano.tonarinoyj.jp/users/1609047349019096703
 
+######## Blo ck Chain #######
+
+www.golem.network
+//Buy & sell computing power
+
+cryptozombies.io
+// Ether game-tutorial
+
+openzeppelin.org
+//Security library for SmartContracts
+
+etherscan.io
+//Blockchain statistics
+
+ethereum.stackexchange.com/q/54/42
+//Gas prices
+
+bitinfocharts.com
+//Current Ethereum blockchan size (182.5GB)
+
+souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain
+//Build your own private block
 
