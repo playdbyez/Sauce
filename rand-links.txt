@@ -20,12 +20,22 @@
 >Bruce Schneier
 >BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications
 >BOOK: Applied Cryptography (John Wiley & Sons)
+>BOOK: Running Linux (Welsh & Kaufman)
+>BOOK: Linux for Dummies (De-Ann Leblac 5th Edition)
 
 >“tested spyware free” /download.com 
 
 >SiteAdvisor
 
 >f-secure.com
+
+> atom.io
+
+>ethfiddle.com
+
+>remix.ethereum.org
+
+>Vim-Solidity
 
 >forums.spybot.info
 
