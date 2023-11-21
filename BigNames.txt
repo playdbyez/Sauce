@@ -70,24 +70,12 @@ Bash - kernelgrok.com/
 
 ######## Blo ck Chain #######
 
-www.golem.network
-//Buy & sell computing power
 
-cryptozombies.io
-// Ether game-tutorial
-
-openzeppelin.org
-//Security library for SmartContracts
-
-etherscan.io
-//Blockchain statistics
-
-ethereum.stackexchange.com/q/54/42
-//Gas prices
-
-bitinfocharts.com
-//Current Ethereum blockchan size (182.5GB)
-
-souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain
-//Build your own private block
+Buy & sell computing power -                golem.network
+Ether game-tutorial -                       cryptozombies.io
+Security library for SmartContracts -       openzeppelin.org
+Blockchain statistics -                     etherscan.io
+Gas prices -                                ethereum.stackexchange.com/q/54/42
+Current Ethereum blockchan size (182.5GB) - bitinfocharts.com
+Build your own private block -              souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/private-chain
 
