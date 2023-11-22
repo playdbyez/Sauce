@@ -22,5 +22,13 @@ https://www.youtube.com/watch?v=W1SY6qKZrUk
 https://anicole.info/
 
 
+CompTia
+https://www.youtube.com/watch?v=9Hd8QJmZQUc
+https://www.youtube.com/watch?v=qiQR5rTSshw
+https://www.youtube.com/watch?v=UCr04qIB7uc
+https://www.youtube.com/watch?v=2eLe7uz-7CM
+https://www.youtube.com/watch?v=Th0AD8ISM_s
+https://www.youtube.com/watch?v=3MHDU4kFChU&list=PLG49S3nxzAnna96gzhJrzkii4hH_mgW4b
+
 
 Use Minicom to Interrupt Bootlog of a router, auto-Boot sequence in router
