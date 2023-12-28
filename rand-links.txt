@@ -94,6 +94,9 @@
 >layoffs.fyi
 //Tracks employee layoffs from big Corps.
 
+> https://quarto.org/
+//Publish and build online books
+
 
 https://cwe.mitre.org/data/definitions/121.html
 https://www.cvedetails.com/vulnerability-list/opov-1/overflow.html
