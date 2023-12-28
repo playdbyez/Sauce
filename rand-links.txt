@@ -6,6 +6,8 @@
 
 >Adobe's Action script ads
 
+
+
 >Yankee Group report on the Hearse rootkit.(2007)
 
 >cryptographic signature matching
@@ -88,6 +90,9 @@
 
 >bridges.torproject.org/options
 //TOR Bridges
+
+>layoffs.fyi
+//Tracks employee layoffs from big Corps.
 
 
 https://cwe.mitre.org/data/definitions/121.html
@@ -356,6 +361,7 @@ forums.spybot.info
 Airscanner Mobile Security
 
 
+###############################################
 
 pine-email
 AlpineOS
@@ -363,3 +369,8 @@ Bash Shell
 Korn Shell
 C shell
 Bourne Shell
+
+
+
+
+
