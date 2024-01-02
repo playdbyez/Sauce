@@ -36,3 +36,7 @@ https://www.youtube.com/watch?v=3MHDU4kFChU&list=PLG49S3nxzAnna96gzhJrzkii4hH_mg
 
 
 Use Minicom to Interrupt Bootlog of a router, auto-Boot sequence in router
+
+
+
+https://www.reddit.com/r/rust/comments/18e6qrl/linus_on_rust_in_the_linux_kernel_december_2023/
