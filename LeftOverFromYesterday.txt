@@ -40,6 +40,7 @@ Use Minicom to Interrupt Bootlog of a router, auto-Boot sequence in router
 https://www.youtube.com/watch?v=bOCHTHkBoAs
 https://www.youtube.com/watch?v=fuFlMtZmvY0
 https://www.youtube.com/watch?v=7O-s5qHZiPA
+https://www.youtube.com/watch?v=pEfrdAtAmqk
 
 
 
