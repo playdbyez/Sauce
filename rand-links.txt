@@ -82,6 +82,9 @@
 
 >https://www.techncyber.com/2017/09/hacking-with-termux-app.html
 
+>https://grouper.ieee.org/groups/msc/
+//Microprocessor Standards Committee
+
 >hspcx.blogspot.com/2021/05/derrubando-redes-wifi-com-airmon-ng-pdf.html>m=1
 
 >https://www.exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
