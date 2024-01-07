@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=fuFlMtZmvY0
 https://www.youtube.com/watch?v=7O-s5qHZiPA
 https://www.youtube.com/watch?v=pEfrdAtAmqk
 
+https://www.youtube.com/watch?v=2SpuBqvNjHI
+https://www.youtube.com/watch?v=hLJ734wZWWA
 
 
 https://www.reddit.com/r/rust/comments/18e6qrl/linus_on_rust_in_the_linux_kernel_december_2023/
