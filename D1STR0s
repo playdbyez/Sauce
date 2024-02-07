@@ -39,5 +39,32 @@
  Bugtraq (GSM nalysis)
  Knoppix
  AlpineOS
+ OS/390 (IBM operating system)
+ Z/OS   (IBM operating system)
+
+
+
+::: Computer Terminals :::
+
+IBM 2260  (1964)
+IBM 3270  (1971)
+DEC VT100 (1978)
+DEC VT220 (1983)
+
+tn3270 (Terminal emulator)
+tty    (Terminal emulator)
+ANSI   (Terminal emulator)
+xterm  (Terminal emulator)
+
+
+
+
+::: Shells :::
+
+Bourne shell
+C      shell
+Kern   shell
+Bash   shell
+
 
 
