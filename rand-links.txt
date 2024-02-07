@@ -6,8 +6,6 @@
 
 >Adobe's Action script ads
 
-
-
 >Yankee Group report on the Hearse rootkit.(2007)
 
 >cryptographic signature matching
@@ -25,7 +23,8 @@
 >BOOK: Applied Cryptography (John Wiley & Sons)
 >BOOK: Running Linux (Welsh & Kaufman)
 >BOOK: Linux for Dummies (De-Ann Leblac 5th Edition)
-
+>BOOK: PCI Express System Architecture (PC System Architecture)
+>BOOK: Introduction to PCI Express: A Hardware and Software Developer's Guide
 >“tested spyware free” /download.com 
 
 >SiteAdvisor
@@ -90,6 +89,9 @@
 >https://www.exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
 
 >https://www.loc.gov/preservation/digital/formats/fdd/fdd000412.shtml
+
+>LZW compression technique
+>Huffman compression technique
 
 >bridges.torproject.org/options
 //TOR Bridges
