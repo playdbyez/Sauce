@@ -10,7 +10,7 @@
 
 >Yankee Group report on the Hearse rootkit.(2007)
 
->cryptographic signature matching
+> owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist
 
 > Forensic Analytics CSAS v3
 
@@ -68,6 +68,14 @@
 >hakin9.org/atm-hacking-advanced-methods-for-finding-security-vulnerabilities-by-anastasis-vasileiadis/
 
 >www.iplocation.net/find-ip-address
+
+>cryptographic signature matching
+>owasp.org/www-project-developer-guide/draft/foundations/crypto_principles/
+>betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+>w.astro.berkeley.edu/~jrg/ngst/fft/fourier.html
+>betterexplained.com/articles/sorting-algorithms/
+>cprogramming.com/tutorial/computersciencetheory/sortcomp.html
+>towardsdatascience.com/understanding-face-detection-with-the-viola-jones-object-detection-framework
 
 >dangerousprototypes.com/docs/Bus_Pirate
 
