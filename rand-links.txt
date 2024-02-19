@@ -21,12 +21,30 @@
 >odysee.com
 
 >Bruce Schneier
+
 >BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications
 >BOOK: Applied Cryptography (John Wiley & Sons)
 >BOOK: Running Linux (Welsh & Kaufman)
 >BOOK: Linux for Dummies (De-Ann Leblac 5th Edition)
 >BOOK: PCI Express System Architecture (PC System Architecture)
 >BOOK: Introduction to PCI Express: A Hardware and Software Developer's Guide
+>BOOK: Real cryptography
+>BOOK: Algorithms for Dummies
+>BOOK: Introduction to Algorithms (  Thomas H. Cormen )
+>BOOK: The Art of Computer Programming Vol.3
+>BOOK: Smaller C: Lean Code for Small Machines 
+>BOOK: (ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide ( Mike Wills )
+>BOOK: C in a Nutshell
+>BOOK: Intermediate C Programming ( Yung-Hsiang Lu )
+>BOOK: Network Security Essentials: Applications and Standards ( William Stallings )
+>BOOK: CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (Todd Lammle) 
+>BOOK: Computer Architecture: A Quantitative Approach
+>BOOK: Cybersecurity for Beginners: A Hands-On Guide (Sam Grubb)
+>BOOK: Build Your Own Pc Do-it-yourself For Dummies ( Mark L. Chambers )
+>BOOK: Complete A+ Guide to IT Hardware and Software Lab Manual: A CompTIA A+ Core 1 (220-1001) & CompTIA A+ Core 2 (220-1002) Lab Manual
+>BOOK: CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide)
+
+
 >“tested spyware free” /download.com 
 
 >SiteAdvisor
