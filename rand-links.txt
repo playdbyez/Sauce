@@ -44,6 +44,10 @@
 >BOOK: Complete A+ Guide to IT Hardware and Software Lab Manual: A CompTIA A+ Core 1 (220-1001) & CompTIA A+ Core 2 (220-1002) Lab Manual
 >BOOK: CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide)
 >BOOK: How computers really work ( Matthew Justice )
+>BOOK: Computer Systems: A Programmer's Perspective
+>BOOK: Mastering Algorithms with C
+>BOOK: Understanding and Using C Pointers
+>BOOK: The Garbage Collection Handbook: The Art of Automatic Memory Management
 
 
 >“tested spyware free” /download.com 
