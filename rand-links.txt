@@ -106,6 +106,8 @@
 
 >android.stackxchange.com/questions/182029/using-termux-for-wireless-sniffing/
 
+>https://ine.com/blog/code-blue-strengthening-healthcare-cybersecurity-defenses?utm_source=twitter&utm_medium=organic&utm_campaign=general_social&utm_content=feb_social_code-blue_blog-1&utm_term=pta
+
 >cara1001.com/2021/08/cara-hack-wifi-yang-di-password-dengan-termux.html?m=1
 
 >zaffferano.piemonte.it/Termux_Root_Apk.html
