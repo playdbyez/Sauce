@@ -48,6 +48,7 @@
 >BOOK: Mastering Algorithms with C
 >BOOK: Understanding and Using C Pointers
 >BOOK: The Garbage Collection Handbook: The Art of Automatic Memory Management
+>BOOK: Cybersecurity Essentials 2018 (  Charles J. Brooks )
 
 
 >“tested spyware free” /download.com 
