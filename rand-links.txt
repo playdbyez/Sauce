@@ -21,7 +21,7 @@
 >odysee.com
 
 >Bruce Schneier
-
+>BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer
 >BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications
 >BOOK: Applied Cryptography (John Wiley & Sons)
 >BOOK: Running Linux (Welsh & Kaufman)
