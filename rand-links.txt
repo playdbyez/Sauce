@@ -21,34 +21,34 @@
 >odysee.com
 
 >Bruce Schneier
->BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer
->BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications
->BOOK: Applied Cryptography (John Wiley & Sons)
+>BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer 			[365]
+>BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications 									[384]
+>BOOK: Applied Cryptography: Protocols, Algorithms, and Source Code in C 									[784]
 >BOOK: Running Linux (Welsh & Kaufman)
 >BOOK: Linux for Dummies (De-Ann Leblac 5th Edition)
 >BOOK: PCI Express System Architecture (PC System Architecture)
 >BOOK: Introduction to PCI Express: A Hardware and Software Developer's Guide
->BOOK: Real cryptography
+>BOOK: Real-World Cryptography															[416]
 >BOOK: Algorithms for Dummies
->BOOK: Introduction to Algorithms (  Thomas H. Cormen )
->BOOK: The Art of Computer Programming Vol.3
->BOOK: Smaller C: Lean Code for Small Machines 
->BOOK: (ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide ( Mike Wills )
+>BOOK: Introduction to Algorithms (  Thomas H. Cormen )												[1332]
+>BOOK: Art of Computer Programming, The: Sorting and Searching, Volume 3: 03									[800]
+>BOOK: Smaller C: Lean Code for Small Machines 													[250]
+>BOOK: (ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide ( Mike Wills )							[688]
 >BOOK: C in a Nutshell
->BOOK: Intermediate C Programming ( Yung-Hsiang Lu )
->BOOK: Network Security Essentials: Applications and Standards ( William Stallings )
->BOOK: CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (Todd Lammle) 
->BOOK: Computer Architecture: A Quantitative Approach
->BOOK: Cybersecurity for Beginners: A Hands-On Guide (Sam Grubb)
+>BOOK: Intermediate C Programming ( Yung-Hsiang Lu )												[432]
+>BOOK: Cryptography and Network Security: Principles and Practice, Global Ed									[832]
+>BOOK: CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (Todd Lammle) 					[1136]
+>BOOK: Computer Architecture: A Quantitative Approach 												[936]
+>BOOK: Cybersecurity for Beginners: A Hands-On Guide (Sam Grubb)										[304]
 >BOOK: Build Your Own Pc Do-it-yourself For Dummies ( Mark L. Chambers )
->BOOK: Complete A+ Guide to IT Hardware and Software Lab Manual: A CompTIA A+ Core 1 (220-1001) & CompTIA A+ Core 2 (220-1002) Lab Manual
->BOOK: CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide)
->BOOK: How computers really work ( Matthew Justice )
->BOOK: Computer Systems: A Programmer's Perspective
->BOOK: Mastering Algorithms with C
->BOOK: Understanding and Using C Pointers
->BOOK: The Garbage Collection Handbook: The Art of Automatic Memory Management
->BOOK: Cybersecurity Essentials 2018 (  Charles J. Brooks )
+>BOOK: Complete A+ Guide to IT Hardware and Software Lab Manual: A CompTIA A+ Core 1 (220-1001) & CompTIA A+ Core 2 (220-1002) Lab Manual 	[336]
+>BOOK: CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide) 		[976]
+>BOOK: How computers really work ( Matthew Justice )												[380]
+>BOOK: Computer Systems: A Programmer's Perspective												[1120]
+>BOOK: Mastering Algorithms with C (Kyle Loudon)												[558]
+>BOOK: Understanding and Using C Pointers													[226]
+>BOOK: The Garbage Collection Handbook: The Art of Automatic Memory Management									[520]
+>BOOK: Cybersecurity Essentials 2018 (  Charles J. Brooks )											[784]
 
 
 >“tested spyware free” /download.com 
