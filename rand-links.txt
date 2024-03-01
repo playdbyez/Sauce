@@ -2,25 +2,6 @@
 ####### Other #########
 
 
-> Financial Conduct Authority certified Trading agency
->Symentec
-(Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, CCleaner)
-
->Adobe's Action script ads
-
->Yankee Group report on the Hearse rootkit.(2007)
-
-> owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist
-
-> Forensic Analytics CSAS v3
-
->Folly/facebookAPI
-
->googletest
-
->odysee.com
-
->Bruce Schneier
 >BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer 			[365]
 >BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications 									[384]
 >BOOK: Applied Cryptography: Protocols, Algorithms, and Source Code in C 									[784]
@@ -54,6 +35,40 @@
 >BOOK: Understanding Linux Network Internals: Guided Tour to Networking on Linux								[1062]
 >BOOK: Linux Device Drivers 3e															[636]
 >BOOK: Linux Pocket Guide 3e: Essential Commands												[272]
+>BOOK: A common Sense Guide to Dta Structure & algorithms
+>BOOK: The art of 4-bit assembly (MASM)
+>BOOK: Math for Security (python)
+>BOOK: Full Stack testing
+>BOOK: SQL all in one for Dummies
+>BOOK: Cryptography made simple
+>BOOK: Serious Cryptography (-)
+>BOOK: Crypto : Theory and Practice (+)
+>BOOK: Crypto n Network Sec (-)
+>BOOK: 
+
+
+>Bruce Schneier
+
+
+> Financial Conduct Authority certified Trading agency
+>Symentec
+(Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, CCleaner)
+
+>Adobe's Action script ads
+
+>Yankee Group report on the Hearse rootkit.(2007)
+
+> owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist
+
+> Forensic Analytics CSAS v3
+
+>Folly/facebookAPI
+
+>googletest
+
+>odysee.com
+
+
 
 
 >“tested spyware free” /download.com 
