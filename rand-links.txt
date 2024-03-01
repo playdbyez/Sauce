@@ -40,11 +40,12 @@
 >BOOK: Math for Security (python)
 >BOOK: Full Stack testing
 >BOOK: SQL all in one for Dummies
->BOOK: Cryptography made simple
->BOOK: Serious Cryptography (-)
->BOOK: Crypto : Theory and Practice (+)
->BOOK: Crypto n Network Sec (-)
->BOOK: 
+>BOOK: Cryptography made simpleee (Information Security and Cryptography)									[493]
+>BOOK: Serious Cryptography-															[312]
+>BOOK: Cryptography : Theory and Practice+-													[598]
+>BOOK: Cryptography and Network Security--Principles and Practice										[832]
+>BOOK: 500 Examples and problems of Applied differential equations 
+>BOOK: Cryptography (Springer Undergraduate Mathematics Series)											[271]
 
 
 >Bruce Schneier
@@ -67,8 +68,6 @@
 >googletest
 
 >odysee.com
-
-
 
 
 >“tested spyware free” /download.com 
