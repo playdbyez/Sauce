@@ -49,9 +49,11 @@
 >BOOK: Statistics and Data Analysis: From Elementary to Intermediate
 >BOOK: gilbert strang calculus volume 1
 >BOOK: A History of Mathematical Notations (Vol.1)
+>BOOK: Cryptography in C and C++														[504]
+>BOOK: Advanced Metaprogramming in Classic C++													[599]
+
 
 >Bruce Schneier
-
 
 > Financial Conduct Authority certified Trading agency
 >Symentec
