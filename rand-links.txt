@@ -2,6 +2,7 @@
 ####### Other #########
 
 
+>BOOK: OCR GCSE Computer Science, Second Edition												[216]
 >BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer 			[365]
 >BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications 									[384]
 >BOOK: Applied Cryptography: Protocols, Algorithms, and Source Code in C 									[784]
