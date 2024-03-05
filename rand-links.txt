@@ -107,6 +107,7 @@
 >cprogramming.com/tutorial/computersciencetheory/sortcomp.html
 >towardsdatascience.com/understanding-face-detection-with-the-viola-jones-object-detection-framework
 
+
 >dangerousprototypes.com/docs/Bus_Pirate
 
 >github.com/the-slash-bringing-sash-wringing/4chan_gettr
@@ -120,6 +121,8 @@
 >github.com/awesomedata/awesome-public-datasets
 
 >github.com/davidsilv
+
+>pubs.opengroup.org/onlinepubs/009604499/functions/socket.html 
 
 >wondershare.com/password/password-cracker-tools.html
 
