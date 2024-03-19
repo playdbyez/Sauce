@@ -1,0 +1,27 @@
+Security Operations Team leader (03/2024)
+
+SKILLS
+Endpoint Detect & Response
+Anti-Virus
+Sandboxes
+SIEM
+SOAR
+EDR
+NDR
+script library
+
+
+REQUIREMENTS
+>Proficiency in securing various operating systems, including Windows, Linux, and macOS.
+
+>Configure and manage network security devices
+
+>Familiarity with firewalls, intrusion detection/prevention systems (IDS/IPS), and network monitoring tools.
+
+>Understanding of network protocols, architectures, and components
+
+>Professional certifications and experience in Information Security from industry standard security frameworks, e.g. ISACA, BCS, CIPP, ITIL, Crest, ISC2, COMPTIA and key security vendors including Microsoft, Crowdstrike, Qualys, IBM.
+
+>Scripting and programming
+
+>Endpoint Detect and Response tools / Anti Virus tools/ Network traffic packet analysis / Sandboxing and malware analysis
