@@ -57,7 +57,7 @@
 >BOOK: A History of Mathematical Notations (Vol.1)
 >BOOK: Cryptography in C and C++														[504]
 >BOOK: Advanced Metaprogramming in Classic C++													[599]
-
+>BOOK: Web Scraping with Python, 2e: Collecting More Data from the Modern Web									[330]
 
 >Bruce Schneier
 
