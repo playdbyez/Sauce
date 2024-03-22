@@ -2,7 +2,7 @@
 ####### Other #########
 
 
-
+>BOOK: Bare Metal C: Embedded Programming for the Real World											[360]
 >BOOK: Crafting Interpreters (Compilers)
 >BOOK: OCR GCSE Computer Science, Second Edition												[216]
 >BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer 			[365]
