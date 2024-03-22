@@ -3,6 +3,7 @@
 
 
 
+>BOOK: Beginning C for Microcontrollers: Making Electronics Dance with Software
 >BOOK: Explore ATtiny Microcontrollers using C and Assembly Language: AVR Architecture and Programming 
 >BOOK: Bare Metal C: Embedded Programming for the Real World											[360]
 >BOOK: Crafting Interpreters (Compilers)
