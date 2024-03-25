@@ -63,6 +63,7 @@
 
 >https://dblp.org/db/journals/ns/ns2014.html (	Ken Munro:Android scraping  )
 
+>https://www.kernel.org/doc/gorman/html/understand/understand006.html
 
 > Financial Conduct Authority certified Trading agency
 >Symentec
