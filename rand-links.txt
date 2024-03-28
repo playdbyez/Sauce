@@ -68,6 +68,8 @@
 >https://www.youtube.com/watch?v=ccWRlNP1UsY
 >https://www.kernel.org/doc/gorman/html/understand/understand006.html
 
+>https://www.youtube.com/@internationalsymposiumonre1059/videos
+
 > Financial Conduct Authority certified Trading agency
 >Symentec
 (Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, CCleaner)
@@ -119,7 +121,6 @@
 >betterexplained.com/articles/sorting-algorithms/
 >cprogramming.com/tutorial/computersciencetheory/sortcomp.html
 >towardsdatascience.com/understanding-face-detection-with-the-viola-jones-object-detection-framework
-
 
 >dangerousprototypes.com/docs/Bus_Pirate
 
