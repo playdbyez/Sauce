@@ -195,7 +195,9 @@ https://bellard.org/jslinux/
 //Free online Terminal
 
 
-
+https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253242/649678_FULLTEXT01.pdf?sequence=2 [PDF]
+https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf [PDF]
+https://oro.open.ac.uk/54687/1/594090.pdf [PDF]
 
 
 ############################
