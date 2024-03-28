@@ -194,6 +194,11 @@ https://immunefi.com/
 https://bellard.org/jslinux/
 //Free online Terminal
 
+https://www.youtube.com/watch?v=fdOXHHM3WnI
+//International Simposium
+
+https://www.youtube.com/watch?v=QPNdOok2t3A
+//HACKdBox Setup
 
 https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253242/649678_FULLTEXT01.pdf?sequence=2 [PDF]
 https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf [PDF]
