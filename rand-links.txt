@@ -190,6 +190,8 @@ https://code4rena.com/
 https://immunefi.com/
 //VULNS
 
+https://nvd.nist.gov/
+// National Vulns Database
 
 https://bellard.org/jslinux/
 //Free online Terminal
