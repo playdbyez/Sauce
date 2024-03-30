@@ -208,6 +208,10 @@ https://oro.open.ac.uk/54687/1/594090.pdf [PDF]
 https://www.dragos.com/wp-content/uploads/CrashOverride-01.pdf [PDF] 
 
 
+
+https://www.openwall.com/lists/oss-security/
+https://www.youtube.com/watch?v=jqjtNDtbDNI
+// Open Source News MUST
 ############################
 ####### Other pt 2 #########
 
