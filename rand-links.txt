@@ -74,6 +74,12 @@
 >Symentec
 (Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, CCleaner)
 
+
+JHam
+https://github.com/JohnHammond/GTFOBins.github.io
+https://github.com/JohnHammond/oscp-notetaking
+https://github.com/JohnHammond/bbfuzzer
+
 >Adobe's Action script ads
 
 >Yankee Group report on the Hearse rootkit.(2007)
