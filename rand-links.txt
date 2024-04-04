@@ -169,6 +169,12 @@
 
 >https://www.loc.gov/preservation/digital/formats/fdd/fdd000412.shtml
 
+> https://flare.io/
+//check for leaks  being circulated around the web
+
+https://www.crowdsec.net/
+//Global blacklist of known threats
+
 >LZW compression technique
 >Huffman compression technique
 
