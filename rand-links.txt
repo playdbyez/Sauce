@@ -175,6 +175,8 @@ https://github.com/JohnHammond/bbfuzzer
 
 >https://www.loc.gov/preservation/digital/formats/fdd/fdd000412.shtml
 
+>https://ine.com/blog/code-blue-strengthening-healthcare-cybersecurity-defenses?utm_source=twitter&utm_medium=organic&utm_campaign=general_social&utm_content=feb_social_code-blue_blog-1&utm_term=pta
+
 > https://flare.io/
 //check for leaks  being circulated around the web
 
