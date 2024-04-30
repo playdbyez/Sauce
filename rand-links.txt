@@ -183,6 +183,9 @@ https://github.com/JohnHammond/bbfuzzer
 https://www.crowdsec.net/
 //Global blacklist of known threats
 
+https://ncsi.ega.ee/ncsi-index/
+//Global report on CyberSectors
+
 >LZW compression technique
 >Huffman compression technique
 
