@@ -39,4 +39,9 @@ https://www.youtube.com/watch?v=Adtrk3PREQI
 
 PATHS in C
 https://www.youtube.com/watch?v=ewqX1IuYzC8
+
+Files & memory mapping
 https://www.youtube.com/watch?v=m7E9piHcfr4
+https://www.youtube.com/watch?v=8hVLcyBkSXY
+https://www.youtube.com/watch?v=2Cbcb2yGjiM
+https://www.youtube.com/watch?v=XV5sRaSVtXQ
