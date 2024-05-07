@@ -36,6 +36,10 @@ THREADS
 https://www.youtube.com/watch?v=Pg_4Jz8ZIH4
 https://www.youtube.com/watch?v=Adtrk3PREQI
 
+Inter Process communication
+https://www.youtube.com/watch?v=lcRqHwIn5Dk
+https://www.geeksforgeeks.org/inter-process-communication-ipc/
+
 
 PATHS in C
 https://www.youtube.com/watch?v=ewqX1IuYzC8
