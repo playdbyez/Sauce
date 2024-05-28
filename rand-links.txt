@@ -1,7 +1,9 @@
 ######################
 ####### Other #########
 
-
+>BOOK: Python for Cybersecurity: Using Python for Cyber Offense and Defense									[240]
+>BOOK: Algorithmic Thinking, 2nd Edition: Learn Algorithms to Level Up Your Coding Skills							[440]
+>BOOK: Cybersecurity and Cyberwar What Everyone Needs to Know											[320]
 >BOOK: Structure and Interpretation of Computer Programs, 2nd Edition (MIT Electrical Engineering and Computer Science)				[657]
 >BOOK: C Programming FAQs: Frequently Asked Questions Paperback by Steve Summit
 >BOOK: Mastering Linux Kernel Development: A kernel developer's reference manual
