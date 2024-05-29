@@ -1,6 +1,7 @@
 ######################
 ####### Other #########
 
+>BOOK: Computer Science: A Structured Programming Approach Using C: A Structured Approach Using C 						[1184]
 >BOOK: Python for Cybersecurity: Using Python for Cyber Offense and Defense									[240]
 >BOOK: Algorithmic Thinking, 2nd Edition: Learn Algorithms to Level Up Your Coding Skills							[440]
 >BOOK: Cybersecurity and Cyberwar What Everyone Needs to Know											[320]
