@@ -1,3 +1,5 @@
+The first webpage was created in 06/08/1991 by CERN detailing the world wide web project hosted from a NeXT computer
+
 To summarize, here's what you need to do to use the Internet privately while
 traveling:
 
