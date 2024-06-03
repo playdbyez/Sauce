@@ -448,15 +448,18 @@ TOMskype
 >Tyvek envelop untemperable				
 
 >Bitlocker
+ Uses a pseudo number generator (PRNG) called Dual_EC_DRBG, short for 
+dual elliptic curve deterministic random bit generator, which might contain an NSA back door.
+
 >PGP Whole disk encryption
 >WinMagic
 >FileVault 2
 
->HTL card
+>HTL card ??
 
 >Near-Field Communication (NFC)
 >Magnetic Strip
->MagSpoof
+>MagSpoof (HID card reader)
 
 >Kaspersky lab
 DarkHotel (group)
