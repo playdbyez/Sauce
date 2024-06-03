@@ -494,6 +494,9 @@ Bash Shell
 Korn Shell
 C shell
 Bourne Shell
+Mosaic Web-Browser
+Motif Window Manager (nix)
+
 
 
 ############################
