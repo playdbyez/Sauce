@@ -25,3 +25,10 @@ REQUIREMENTS
 >Scripting and programming
 
 >Endpoint Detect and Response tools / Anti Virus tools/ Network traffic packet analysis / Sandboxing and malware analysis
+
+PBins
+5RccTaSU
+7pWNDkA6
+2f3kd94v
+pu7affA1
+UjfrLq5q
