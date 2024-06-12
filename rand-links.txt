@@ -293,6 +293,10 @@ https://www.cvedetails.com/cve/CVE-2002-0639/
 https://www.nature.com/articles/s41586-022-05261-4
 
 
+Wepawet Alternatives
+Aurora explt (exploit-db.com/exploits/11167)
+
+
 ############################
 ####### Other pt 3 #########
 	**Mitnick Invisibility**
