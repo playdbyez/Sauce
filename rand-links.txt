@@ -2,6 +2,7 @@
 ####### Other #########
 
 
+>BOOK: Writing Secure Code (2nd Edition) (Developer Best Practices) 2nd edition by LeBlanc, David, Howard, Michael (2002) Paperback
 >BOOK: Designing Secure Software: A Guide for Developers											[312]
 >BOKK: Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis								[696]
 >BOOK: Computer Science: A Structured Programming Approach Using C: A Structured Approach Using C 						[1184]
