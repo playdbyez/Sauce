@@ -1,0 +1,66 @@
+>BOOK: Writing Secure Code (2nd Edition) (Developer Best Practices) 2nd edition by LeBlanc, David, Howard, Michael (2002) Paperback
+>BOOK: Designing Secure Software: A Guide for Developers											[312]
+>BOKK: Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis								[696]
+>BOOK: Computer Science: A Structured Programming Approach Using C: A Structured Approach Using C 						[1184]
+>BOOK: Python for Cybersecurity: Using Python for Cyber Offense and Defense									[240]
+>BOOK: Algorithmic Thinking, 2nd Edition: Learn Algorithms to Level Up Your Coding Skills							[440]
+>BOOK: Cybersecurity and Cyberwar What Everyone Needs to Know											[320]
+>BOOK: Structure and Interpretation of Computer Programs, 2nd Edition (MIT Electrical Engineering and Computer Science)				[657]
+>BOOK: C Programming FAQs: Frequently Asked Questions Paperback by Steve Summit
+>BOOK: Mastering Linux Kernel Development: A kernel developer's reference manual
+>BOOK: Understanding the Linux Kernel 3e: From I/O Ports to Process Management
+>BOOK: Beginning C for Microcontrollers: Making Electronics Dance with Software
+>BOOK: Explore ATtiny Microcontrollers using C and Assembly Language: AVR Architecture and Programming 
+>BOOK: Bare Metal C: Embedded Programming for the Real World											[360]
+>BOOK: Crafting Interpreters (Compilers)
+>BOOK: OCR GCSE Computer Science, Second Edition												[216]
+>BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer 			[365]
+>BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications 									[384]
+>BOOK: Applied Cryptography: Protocols, Algorithms, and Source Code in C 									[784]
+>BOOK: Running Linux (Welsh & Kaufman)
+>BOOK: Linux for Dummies (De-Ann Leblac 5th Edition)
+>BOOK: PCI System Architecture															[832]
+>BOOK: Introduction to PCI Express: A Hardware and Software Developer's Guide									[300]
+>BOOK: Real-World Cryptography															[416]
+>BOOK: Algorithms for Dummies
+>BOOK: Introduction to Algorithms (  Thomas H. Cormen )												[1332]
+>BOOK: Art of Computer Programming, The: Sorting and Searching, Volume 3: 03									[800]
+>BOOK: Smaller C: Lean Code for Small Machines 													[250]
+>BOOK: (ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide ( Mike Wills )							[688]
+>BOOK: C in a Nutshell
+>BOOK: Intermediate C Programming ( Yung-Hsiang Lu )												[432]
+>BOOK: Cryptography and Network Security: Principles and Practice, Global Ed									[832]
+>BOOK: CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (Todd Lammle) 					[1136]
+>BOOK: Computer Architecture: A Quantitative Approach 												[936]
+>BOOK: Cybersecurity for Beginners: A Hands-On Guide (Sam Grubb)										[304]
+>BOOK: Build Your Own Pc Do-it-yourself For Dummies ( Mark L. Chambers )
+>BOOK: Complete A+ Guide to IT Hardware and Software Lab Manual: A CompTIA A+ Core 1 (220-1001) & CompTIA A+ Core 2 (220-1002) Lab Manual 	[336]
+>BOOK: CompTIA Network+ Certification All-in-One Exam Guide, Eighth Edition (Exam N10-008) (CompTIA Network + All-In-One Exam Guide) 		[976]
+>BOOK: How computers really work ( Matthew Justice )												[380]
+>BOOK: Computer Systems: A Programmer's Perspective												[1120]
+>BOOK: Mastering Algorithms with C (Kyle Loudon)												[558]
+>BOOK: Understanding and Using C Pointers													[226]
+>BOOK: The Garbage Collection Handbook: The Art of Automatic Memory Management									[520]
+>BOOK: Cybersecurity Essentials 2018 (  Charles J. Brooks )											[784]
+>BOOK: How Linux Works, 3rd Edition: What Every Superuser Should Know										[390]
+>BOOK: Linux System Programming 2ed: Talking Directly to the Kernel and C Library								[456]
+>BOOK: Understanding Linux Network Internals: Guided Tour to Networking on Linux								[1062]
+>BOOK: Linux Device Drivers 3e															[636]
+>BOOK: Linux Pocket Guide 3e: Essential Commands												[272]
+>BOOK: A common Sense Guide to Dta Structure & algorithms
+>BOOK: The art of 4-bit assembly (MASM)
+>BOOK: Math for Security (python)
+>BOOK: Full Stack testing
+>BOOK: SQL all in one for Dummies
+>BOOK: Cryptography made simpleee (Information Security and Cryptography)									[493]
+>BOOK: Serious Cryptography-															[312]
+>BOOK: Cryptography : Theory and Practice+-													[598]
+>BOOK: Cryptography and Network Security--Principles and Practice										[832]
+>BOOK: 500 Examples and problems of Applied differential equations 
+>BOOK: Cryptography (Springer Undergraduate Mathematics Series)											[271]
+>BOOK: Statistics and Data Analysis: From Elementary to Intermediate
+>BOOK: gilbert strang calculus volume 1
+>BOOK: A History of Mathematical Notations (Vol.1)
+>BOOK: Cryptography in C and C++														[504]
+>BOOK: Advanced Metaprogramming in Classic C++													[599]
+>BOOK: Web Scraping with Python, 2e: Collecting More Data from the Modern Web									[330]
