@@ -504,13 +504,6 @@ dl.acm.org/doi/10.1145/42411.42415
 [] 1984 Universal Declaration of Human Rights
 [] 1966 International Covenant on Civil and Political rights
 
-[] SCADA systems are popular among industrial control systems for large interprises and cargo engines
-
-
-[] Five Ds plus one : destroy, deny degrade, disrupt and decieve plus defence.
-
-[] Notable operations : unit deployment schedules, resupply rates, materiel movement schedules, readiness assessments, 
-maritime propositioning plans, logistic statuses and aerial refueling schedules.
 
 [] ISPs can be private or government funded and they form the nodes known as Autonomous Systems (AS) interconnected
 within the global internet. 
