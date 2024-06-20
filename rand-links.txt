@@ -517,8 +517,6 @@ within the global internet.
 Their scale is made up of roughly 40 000 nodes.
 
 
-[] Domain Name Systems (DNS) work by giving domains (.uk or .edu) to intermediaries 
-called registrars controlled by the non-profit organization ICANN.
-The .edu domain denotes Educause, which is made up of a list of 2000+ education institutes and its operated by VeriSign.
+
 
 
