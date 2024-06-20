@@ -212,6 +212,7 @@ https://drdobbs.com/extending-the-stl/184401912
 
 news.uchicago.edu/story/university-chicago-scientists-discover-material-can-be-made-plastic-conducts-metal
 
+VENONA System for attacks on security protocols
 
 >High Level Assembly Compiler
 http://www.artofasm.com/
