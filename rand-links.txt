@@ -15,6 +15,7 @@
 >Symentec
 (Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, CCleaner)
 
+>cisa.gov/sites/default/files/documents/Seven%20Steps%20to%20Effectively%20Defend%20Industrial%20Control%20Systems_S508C.pdf
 
 JHam
 https://github.com/JohnHammond/GTFOBins.github.io
@@ -515,8 +516,6 @@ maritime propositioning plans, logistic statuses and aerial refueling schedules.
 within the global internet. 
 Their scale is made up of roughly 40 000 nodes.
 
-[] Network layer = transport packets accros the internet
-[] Transport layer = Gateway of each network, reposible for packing and recieving packets
 
 [] Domain Name Systems (DNS) work by giving domains (.uk or .edu) to intermediaries 
 called registrars controlled by the non-profit organization ICANN.
