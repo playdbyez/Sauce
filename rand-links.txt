@@ -508,13 +508,3 @@ F-35 fighter jet hacks
 
 Cold war model MAD: Mutually Assured Destruction
 
-[] Amdahl's law asserts that there is always a serial part to a parallel program that must be 
-executed sequentially however Gustafson & Barsis have argued for a flaw in ahmdahl's law
-dl.acm.org/doi/10.1145/42411.42415
-
-.
-
-
-
-
-
