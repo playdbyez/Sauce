@@ -464,19 +464,13 @@ OBD-II Connector for car fob database
 cfr.org/cyber-operations/ghostnet
 nsarchive.gwu.edu/briefing-book/cyber-vault/2017-05-03/cyber-vault-highlights
 Byzantine Hades
-National Cybersecurity and Communication Integrity Center
 Cablegate 2010 WikiLeaks
-
 malicious.life/episode/episode-194/ (RBN)
 Operation Shady RAT (McAfee)
-F-35 fighter jet hacks
 Snowden Leaks 2013
 Logic Bomb 1982
 Global 2000 List (yearly)
 хакер: computer Hooligan Magazine (InArch)
-Joint Task Force-Computer Network Defense (Jim Healey)
-National Cybersecurity and Communication Integrity Center
-Center for Strategic and International Studies
 Verizion's Databreach Investigations Team
 CrowdStrike
 Siemen's winCC/ PCS 7 SCADA control software
@@ -489,11 +483,25 @@ Strategy for Operating in Cyberspace 2011
 Deterrence Theory 1950
 US Defence Science Board Report 2013
 Center for Democracy and Technology
+Strategic Defense and Security review 2010
+Joint Task Force-Computer Network Defense (Jim Healey)
+National Cybersecurity and Communication Integrity Center
+Center for Strategic and International Studies
+National Cybersecurity and Communication Integrity Center
+Cyber Conflict Studies Association (CCSA)
+European Cyber Conflict Research Initiative (ECCRI)
 Skygrabber 2009
-X-47 fighter jet hack
+Cuban Missile Crisis 1962
 Stuxnet malware analysis 
 Duqu malware analysis
-HoistExploit company
+HoistExploit (hosts and registrars research company)
+Boeing Co (aerospace company)
+Lockheed Martin (aerospace and defense)
+BAE Systems (aerospace company)
+Norkom (anti-crime software)
+X-47 fighter jet hack
+F-35 fighter jet hacks
+
 Internet = USA, Japan, Netherlands and Sweden
 Cold war model MAD: Mutually Assured Destruction
 
