@@ -124,6 +124,8 @@ https://github.com/JohnHammond/bbfuzzer
 > https://flare.io/
 //check for leaks  being circulated around the web
 
+https://www.peeringdb.com/
+
 https://www.crowdsec.net/
 //Global blacklist of known threats
 
@@ -481,6 +483,8 @@ Solar Sunrise Incident
 Talinn Manual on the International Law Applicable to Cyber Warfare
 Strategy for Operating in Cyberspace 2011
 Deterrence Theory 1950
+Cisco Annual Internet Report
+state-of-the-network-2022.pdf
 US Defence Science Board Report 2013
 Center for Democracy and Technology
 Strategic Defense and Security review 2010
@@ -508,10 +512,7 @@ Cold war model MAD: Mutually Assured Destruction
 executed sequentially however Gustafson & Barsis have argued for a flaw in ahmdahl's law
 dl.acm.org/doi/10.1145/42411.42415
 
-
-[] ISPs can be private or government funded and they form the nodes known as Autonomous Systems (AS) interconnected
-within the global internet. 
-Their scale is made up of roughly 40 000 nodes.
+.
 
 
 
