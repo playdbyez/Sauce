@@ -472,6 +472,7 @@ Operation Shady RAT (McAfee)
 Snowden Leaks 2013
 Logic Bomb 1982
 Global 2000 List (yearly)
+World Economic Forum
 хакер: computer Hooligan Magazine (InArch)
 Verizion's Databreach Investigations Team
 CrowdStrike
@@ -494,6 +495,8 @@ Center for Strategic and International Studies
 National Cybersecurity and Communication Integrity Center
 Cyber Conflict Studies Association (CCSA)
 European Cyber Conflict Research Initiative (ECCRI)
+North America Electricity Reliability Corporation  (Pgrid)
+Internet Systems Consortium
 International Telecomunication Union
 International Telecomunication Regulations
 Skygrabber 2009
@@ -507,6 +510,8 @@ BAE Systems (aerospace company)
 Norkom (anti-crime software)
 X-47 fighter jet hack
 F-35 fighter jet hacks
+United States Cyber Command (MD5)
+
 
 Cold war model MAD: Mutually Assured Destruction
 
