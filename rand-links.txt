@@ -494,6 +494,8 @@ Center for Strategic and International Studies
 National Cybersecurity and Communication Integrity Center
 Cyber Conflict Studies Association (CCSA)
 European Cyber Conflict Research Initiative (ECCRI)
+International Telecomunication Union
+International Telecomunication Regulations
 Skygrabber 2009
 Cuban Missile Crisis 1962
 Stuxnet malware analysis 
