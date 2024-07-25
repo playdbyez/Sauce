@@ -511,7 +511,10 @@ Norkom (anti-crime software)
 X-47 fighter jet hack
 F-35 fighter jet hacks
 United States Cyber Command (MD5)
-
-
 Cold war model MAD: Mutually Assured Destruction
-
+Multex threads
+google C++ unit test
+Verizion Databreach Investigation Team
+Electronic Fronteer Foundation
+Internet Governance Project
+"Organizational Slack"
