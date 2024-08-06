@@ -15,13 +15,10 @@
 >BOOK: Crafting Interpreters (Compilers)
 >BOOK: OCR GCSE Computer Science, Second Edition												[216]
 >BOOK: The Full Stack Developer: Your Essential Guide to the Everyday Skills Expected of a Modern Full Stack Web Developer 			[365]
->BOOK: Cryptography Ingineering: Design Principles 7 Practical Applications 									[384]
->BOOK: Applied Cryptography: Protocols, Algorithms, and Source Code in C 									[784]
 >BOOK: Running Linux (Welsh & Kaufman)
 >BOOK: Linux for Dummies (De-Ann Leblac 5th Edition)
 >BOOK: PCI System Architecture															[832]
 >BOOK: Introduction to PCI Express: A Hardware and Software Developer's Guide									[300]
->BOOK: Real-World Cryptography															[416]
 >BOOK: Algorithms for Dummies
 >BOOK: Introduction to Algorithms (  Thomas H. Cormen )												[1332]
 >BOOK: Art of Computer Programming, The: Sorting and Searching, Volume 3: 03									[800]
@@ -29,7 +26,6 @@
 >BOOK: (ISC)2 SSCP Systems Security Certified Practitioner Official Study Guide ( Mike Wills )							[688]
 >BOOK: C in a Nutshell
 >BOOK: Intermediate C Programming ( Yung-Hsiang Lu )												[432]
->BOOK: Cryptography and Network Security: Principles and Practice, Global Ed									[832]
 >BOOK: CCNA Routing and Switching Complete Study Guide: Exam 100-105, Exam 200-105, Exam 200-125 (Todd Lammle) 					[1136]
 >BOOK: Computer Architecture: A Quantitative Approach 												[936]
 >BOOK: Cybersecurity for Beginners: A Hands-On Guide (Sam Grubb)										[304]
@@ -52,16 +48,10 @@
 >BOOK: Math for Security (python)
 >BOOK: Full Stack testing
 >BOOK: SQL all in one for Dummies
->BOOK: Cryptography made simpleee (Information Security and Cryptography)									[493]
->BOOK: Serious Cryptography-															[312]
->BOOK: Cryptography : Theory and Practice+-													[598]
->BOOK: Cryptography and Network Security--Principles and Practice										[832]
 >BOOK: 500 Examples and problems of Applied differential equations 
->BOOK: Cryptography (Springer Undergraduate Mathematics Series)											[271]
 >BOOK: Statistics and Data Analysis: From Elementary to Intermediate
 >BOOK: gilbert strang calculus volume 1
 >BOOK: A History of Mathematical Notations (Vol.1)
->BOOK: Cryptography in C and C++														[504]
 >BOOK: Advanced Metaprogramming in Classic C++													[599]
 >BOOK: Web Scraping with Python, 2e: Collecting More Data from the Modern Web									[330]
 >BOOK: The Linux Programming Interface
