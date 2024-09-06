@@ -66,3 +66,274 @@ https://stallman.org/facebook.html
 
 
 Previous Thread: >>93344116
+
+############################FEB2020#########################################
+Hashes + Some Salted
+ 
+http://finder.insidepro.com/
+ 
+USA People Search 
+ 
+http://10digits.us
+http://www.whitepages.com
+http://www.411.com
+http://www.zabasearch.com
+http://www.intelius.com
+http://www.yellowpages.com
+http://publicrecords.directory/
+http://www.411locate.com
+http://www.addresses.com
+http://www.spokeo.com
+http://www.anywho.com
+http://www.peoplefinders.com
+http://www.skipease.com
+https://www.vetfriends.com/
+http://radaris.com
+http://www.superpages.com
+http://www.advancedbackgroundchecks.com/
+ 
+UK People Search 
+ 
+https://www.gov.uk/electoral-register/overview
+http://www.searchelectoralroll.co.uk/Ele...Search.asp
+http://www.192.com
+http://webmii.com
+http://www.kgbpeople.com
+http://www.yasni.com
+http://www.peekyou.com/united_kingdom
+https://t2a.co/products/people/see_who_l...an_address
+http://britishphonebook.com/
+ 
+ 
+Phone Search 
+ 
+http://www.spydialer.com/
+http://www.phonevalidator.com
+http://www.fonefinder.net
+http://www.infobel.com/en/world
+http://www.spokeo.com/reverse-phone-lookup
+https://www.phone.instantcheckmate.com/
+http://www.freecellphonedirectorylookup.com
+http://www.numberway.com/
+ 
+Username Search 
+ 
+https://www.google.com/advanced_search
+https://pipl.com
+http://checkusernames.com
+http://knowem.com
+ 
+ 
+Picture Search 
+ 
+http://www.tineye.com
+https://images.google.com/
+http://exifdata.com/
+http://geoimgr.com/
+ 
+ 
+Email Search 
+ 
+http://com.lullar.com
+http://www.emailfinder.com
+http://www.spokeo.com/email-search
+http://ctrlq.org/google/images/
+http://emailchange.com/
+ 
+MISC Search 
+ 
+http://www.criminalsearches.com
+http://www.advancedbackgroundchecks.com
+http://www.usatrace.com
+http://www.criminalsearches.com
+http://www.abika.com
+http://publicrecords.onlinesearches.com
+http://www.jailbase.com/en/sources/fl-lcso
+http://www.gps-coordinates.net/
+http://www.speedguide.net/ip/
+http://db-ip.com/
+http://www.ipgeek.org/
+http://www.onewildworld.co.uk/number.php
+https://www.facebook.com/family/LASTNAME...ght=100%25
+https://www.cable.co.uk/tools/broadband-speed-test/
+ 
+Useful sites to get/use IPs
+ 
+https://www.iplocation.net/
+http://whatismyipaddress.com/geolocation-accuracy
+http://www.proxyornot.com
+http://www.infosniper.net
+https://www.whois.net
+http://www.ip-tracker.org
+http://skypegrab.net
+http://mostwantedhf.info
+http://iphostinfo.com/cloudflare/
+http://orcahub.com/index.php?act=link-ip-snatcher --- Use that with URL link shortener 
+ 
+Social Network Searches
+ 
+http://www.facebook.com/directory/people/
+http://topsy.com/
+http://monitter.com/ 
+http://socialmention.com/
+http://knowem.com/
+http://twoogel.com/
+http://www.yacktrack.com
+http://www.samepoint.com/
+http://www.whostalkin.com/
+ 
+Passwords
+ 
+https://haveibeenpwned.com/
+https://www.hacked-db.com/
+https://www.leakedsource.com
+http://www.hashkiller.co.uk/md5-decrypter.aspx
+https://hacked-emails.com
+https://breachalarm.com/
+https://lastpass.com/adobe/
+
+#######################################################
+
+Most Common’ RATS In Use 2020 
+Back Orifice, Saefko, CrossRAT, Sakula, KjW0rm, Havex, AlienSpy, Mirage, Sub Seven, Beast Trojan, Bifrost, Blackshades, DarkComet
+
+
+
+https://inteltechniques.com/intel/OSINT/facebook.html …
+OooDox Tool
+http://netbootcamp.org/facebook.html
+http://socialsearching.info/#/fb
+ 
+The hidden Wiki
+http://thehiddenwiki.org/
+ 
+Search The Tor Network without the browser bundle
+https://onion.cab/
+ 
+Search for Tor hidden services
+https://ahmia.fi/
+ 
+Access Tor Sites, Onion LInks
+http://www.onion.link/
+ 
+Human Trafficking Intelligence
+http://www.rescueforensics.com/
+ 
+Custom Email Searches
+https://inteltechniques.com/intel/OSINT/email.search.html …
+ 
+Addresses, email, Zip, Users, phone, people, license plates etc... reverse searches
+http://www.reversegenie.com
+ 
+Ip, Domain History, Alexa,Reverse IP,Port scan, Traceroute,
+Similar Web, SEMrush, Site Analytics, Same ID, SpyonWeb,DomainCrawler,
+Nerdy Data,Robots.txt, Censys, Threat Cow, Whoisology,
+https://inteltechniques.com/intel/OSINT/domain.search.html …
+ 
+Custom IP address search
+https://inteltechniques.com/intel/OSINT/ip.search.html …
+ 
+Custom Document Search
+https://inteltechniques.com/intel/OSINT/docs.html …
+ 
+Document Search By format
+https://inteltechniques.com/intel/OSINT/docs.format.html …
+ 
+100 pastebin type sites with search engine for all 100
+https://inteltechniques.com/intel/OSINT/pastebins.html …
+ 
+Instagram Searches, GPS data, identify target followers etc etc..
+https://inteltechniques.com/intel/OSINT/instagram.html …
+ 
+Social Network Custom Image searches
+https://inteltechniques.com/intel/OSINT/images.html …
+ 
+Cellular email Assumption, Convert Cell numbers to possible emails
+https://inteltechniques.com/intel/OSINT/cellperm.html …
+ 
+Photo Meta Data search, Get Possible GPS coordinates, Camera Type,
+or search GPS coordinates by date to retrieve images from that location...
+https://inteltechniques.com/intel/OSINT/photos.html …
+ 
+Search Dating Networks
+https://inteltechniques.com/intel/OSINT/dating.networks.html …
+ 
+Display all email adresses for a domain.. example.. http://website.com  http://yomomma.com
+https://emailhunter.co/
+ 
+Massive list of Security, Privacy Links, Browser addons etc
+https://inteltechniques.com/hfti.links.html
+ 
+Reverse Website Intel [ERROR] 
+http://reverseinternet.com/
+ 
+Twitter analytics
+http://twitter.analyzer.cc/
+ 
+More then just reverse lookups on emails, Whoisology
+https://whoisology.com/#advanced
+ 
+Website analytics, Traffic, location, Overview etc
+http://www.statscrop.com/www/inteltechniques.com …
+ 
+Youtube Video meta Data Viewer, GPS, Keywords etc
+http://www.amnestyusa.org/citizenevidence/ …
+ 
+Skype IP Resolver
+http://www.skresolver.com/index.php
+ 
+A search engine for Threats  [untrusted CA otxb.io]
+https://www.threatcrowd.org/
+ 
+Archived Movies, videos
+https://archive.org/details/opensource_movies …
+ 
+Search for resumes with email adress
+https://inteltechniques.com/osint/emails.resumes.html …
+ 
+Find anyones email by name
+http://www.findanyemail.net/
+ 
+Email Validator
+http://e-mailvalidator.com/index.php?page=home …
+ 
+Convert email to name
+https://thatsthem.com/reverse-email-lookup …
+ 
+reverse email to websites
+http://www.whoismind.com/
+ 
+Find email adresses of businesses, users etc
+http://samy.pl/peepmail/elift.cgi …
+ 
+Check to see if your email was recently exposed, hacked
+http://breachorclear.jesterscourt.cc/
+ 
+Find all email addresses that are registered to someone
+https://www.voilanorbert.com/#
+ 
+https://breachalarm.com/
+Find out if a password hack has exposed your password online.
+ 
+Username search across 500 social networks
+http://knowem.com/
+ 
+Another Username search engine
+http://usersherlock.com/
+ 
+Display all addresses with a given number
+http://www.melissadata.com/lookups/zipnumber.asp …
+ 
+Find businesses,reverse phones, addresses
+http://dexknows.whitepages.com/person
+ 
+Voter records
+http://www.blackbookonline.info/USA-Voter-Records.aspx …
+ 
+Search 34,000,000 newspaper papers
+http://fultonhistory.com/Fulton.html
+
+#############################################################################
+
+
+
