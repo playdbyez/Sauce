@@ -588,7 +588,25 @@ iptables -L
 What is Regex ?
 Network Troubleshooting Tools?
 
+https://github.com/apsrcreatix/Socket-Programming-With-C
+// Sockets Book Resource
 
+https://www.xmodulo.com/tcp-udp-socket-bash-shell.html
+https://www.linuxhowtos.org/C_C++/socket.htm
+//sockets tutorial
+
+networking - Ubuntu 22.04_ Network connectivity problems - Ask Ubuntu
+
+
+https://www.linkedin.com/pulse/how-use-linux-traffic-control-panagiotis-vouzis
+//TC
+
+
+https://www.brainboxes.com/faq/how-do-i-use-cpp-to-communicate-with-my-remote-io-module
+//Remode
+
+Connect to a remote machine with c socket
+//stackoverflw
 
 https://arxiv.org/pdf/2405.16761
 https://arxiv.org/pdf/2202.07358
