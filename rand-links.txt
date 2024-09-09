@@ -633,6 +633,7 @@ https://www.ijraset.com/best-journal/generative-adversarial-network-ganto-genera
 C++ tricks for competitive programming (for C++ 11)
 
 
-
+researchgate.net/publication/228880633_Legal_methods_of_using_computer_forensics_techniques_for_computer_crime_analysis_and_investigation
+//Legal methods of using computer forensics
 
 
