@@ -88,7 +88,16 @@ https://github.com/JohnHammond/bbfuzzer
 
 >github.com/davidsilv
 
->pubs.opengroup.org/onlinepubs/009604499/functions/socket.html 
+github.com/apsrcreatix/Socket-Programming-With-C
+// Sockets Book Resource
+
+pubs.opengroup.org/onlinepubs/009604499/functions/socket.html 
+xmodulo.com/tcp-udp-socket-bash-shell.html
+linuxhowtos.org/C_C++/socket.htm
+//sockets tutorial
+
+"Connect to a remote machine with c socket"
+//stackoverflw
 
 >wondershare.com/password/password-cracker-tools.html
 
@@ -541,7 +550,6 @@ Penetration Testing Certification: HTB Certified Penetration Testing Specialist 
 
 Classes in C++: Declaration And Implementation of Classes
 
-
 https://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
 
 Cyber operations_building, defending and attacking modern computer networks 
@@ -588,12 +596,7 @@ iptables -L
 What is Regex ?
 Network Troubleshooting Tools?
 
-https://github.com/apsrcreatix/Socket-Programming-With-C
-// Sockets Book Resource
 
-https://www.xmodulo.com/tcp-udp-socket-bash-shell.html
-https://www.linuxhowtos.org/C_C++/socket.htm
-//sockets tutorial
 
 networking - Ubuntu 22.04_ Network connectivity problems - Ask Ubuntu
 
@@ -605,8 +608,7 @@ https://www.linkedin.com/pulse/how-use-linux-traffic-control-panagiotis-vouzis
 https://www.brainboxes.com/faq/how-do-i-use-cpp-to-communicate-with-my-remote-io-module
 //Remode
 
-Connect to a remote machine with c socket
-//stackoverflw
+
 
 https://arxiv.org/pdf/2405.16761
 https://arxiv.org/pdf/2202.07358
