@@ -519,3 +519,123 @@ Electronic Fronteer Foundation
 Internet Governance Project
 "Organizational Slack"
 National Institute of Standards and Technology (NIST)
+
+
+
+
+
+##### UNSORTED ####
+
+
+K.N. King C prog a modern approch
+
+atoi();
+isnan(float);
+
+Penetration Testing Certification: HTB Certified Penetration Testing Specialist (HTBCPTS)
+
+
+Classes in C++: Declaration And Implementation of Classes
+
+NSA and CISA Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations (Oct 2023)
+
+https://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
+
+Cyber operations_building, defending and attacking modern computer networks 
+
+A straight forward guide towrds ethical hacking and cyber security
+
+https://www.uobabylon.edu.iq/eprints/publication_11_1011_1448.pdf
+//Lecture 3 Cryptography
+
+HOW TO REDUCE EXECUTION TIME ~ Amit Bansal, Vipin Babbar [PDF]
+
+
+
+Metasploitable_SSH_Brute Force - charlesreid1
+Metasploitable_SSH_Exploits - charlesreid1
+
+borland c++
+
+dont use scanf("%s",....); instead use fgets(string,SIZE,stdin);
+
+
+https://www.codecademy.com/article/what-is-incident-response
+
+@HackerSploit
+
+Github Licensing List
+
+www.simplilearn.com/what-is-steganography-article
+//CodeAcademy HelpSheet
+
+
+pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
+// C++ classes
+
+https://www.eggwall.com/2011/09/
+//TechBlog
+
+
+Public Key Infrastructure providers:
+Certificate Authorities 
+Web of Trust
+Pretty Good Privacy
+
+
+make a server that surb=veys y own machine for
+bash history
+logs history
+apps history
+
+cleanup rotine every 1hour
+
+iptables -L
+
+What is Regex ?
+Network Troubleshooting Tools?
+
+CREDENTIALS
+AZURE Data Fundamentals DP-900 by microsoft
+AZURE Fundamentals AZ-900
+
+Pc 8042 Keyboard Controller Kit - Konzak, Gary
+
+//Port Auditing
+
+
+The Well Known Ports 0 - 1023.
+The Registered Ports 1024 - 49151.
+The Dynamic and Private Ports 49152 - 65535
+
+:::::::::::::::::: :: Identify Ports :: :::::::::::::::::::::::::::::::::::
+$ cat /etc/services 
+//IANA default ports are stored in '/etc/services'
+
+
+$ tail -10 etc/services 
+$ grep -w '443/tcp' /etc/services
+$ grep -E -w '22/(tcp|udp)' /etc/services
+
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::: :: Port Status :: :::::::::::::::::::::::::::::::
+//Socket Statistics
+$ ss -tulpne
+$ ss -s
+
+OUTPUT: 
+	TCP   LISTEN   127.0.0.1:631    [::]:*     cupsd
+	TCP   LISTEN   0.0.0.0:22       [::]:*     sshd
+//Process cupsd is listening on the loopback IP address through port 631
+//Process ssh is listening for ssh connections on all IP addresses through port 22   
+
+
+
+//Memory Caches [Nix Internals]
+The Kernel Device Driver uses functions such as:
+kmalloc to allocate a memory block and 
+kfree to free a memory block  
+
+
