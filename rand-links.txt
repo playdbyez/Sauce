@@ -190,6 +190,10 @@ https://www.dragos.com/wp-content/uploads/CrashOverride-01.pdf [PDF]
 https://www.openwall.com/lists/oss-security/
 https://www.youtube.com/watch?v=jqjtNDtbDNI
 // Open Source News MUST
+
+https://pinoutguide.com/
+//Hardware Pins
+
 ############################
 ####### Other pt 2 #########
 
