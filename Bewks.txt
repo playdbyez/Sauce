@@ -55,3 +55,4 @@
 >BOOK: Advanced Metaprogramming in Classic C++													[599]
 >BOOK: Web Scraping with Python, 2e: Collecting More Data from the Modern Web									[330]
 >BOOK: The Linux Programming Interface
+>ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
