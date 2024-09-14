@@ -41,7 +41,7 @@
 >BOOK: How Linux Works, 3rd Edition: What Every Superuser Should Know										[390]
 >BOOK: Linux System Programming 2ed: Talking Directly to the Kernel and C Library								[456]
 >BOOK: Understanding Linux Network Internals: Guided Tour to Networking on Linux								[1062]
->BOOK: Linux Device Drivers 3e															[636]
+>BOOK: Linux Device Drivers 3e	2005														[636]
 >BOOK: Linux Pocket Guide 3e: Essential Commands												[272]
 >BOOK: A common Sense Guide to Dta Structure & algorithms
 >BOOK: The art of 4-bit assembly (MASM)
@@ -56,3 +56,9 @@
 >BOOK: Web Scraping with Python, 2e: Collecting More Data from the Modern Web									[330]
 >BOOK: The Linux Programming Interface
 >ACAD: Keyboard Book 7 with Digital Content: Computer Science with Application Software (4th Edition) [ISBN 9789697341887]
+>BOOK: Kali Linux Intrusion and exploitation Cookbook ~ Dhruv Shah, Ishan Girdhar [512]
+>BOOK: Firewalls and Internet Security Second Edition ~ William R.Cheswick [457]
+>BOOK: Forensic Computing A practitioner's Guide ~ Tony Sammes [464]
+>BOOK: CHFI Computer forensics : investigating network intrusions and cybercrime [404]
+>BOOK: Linux in a Nutshell, Sixth Edition
+>BOOK: LINUX KERNEL IN A NUTSHELL ~ Greg Kroah-Hartman [198]
