@@ -194,6 +194,96 @@ https://www.youtube.com/watch?v=jqjtNDtbDNI
 https://pinoutguide.com/
 //Hardware Pins
 
+_8042_ PS_2 Controller - OSDev Wiki
+
+Quiet vs loglevel=3 in GRUB_CMDLINE_LINUX_DEFAULT - Kernel & Hardware - EndeavourOS
+
+PLC Programming _ How to Read Ladder Logic & Ladder Diagrams
+
+MD5 - Wikipedia
+
+Mirai DDoS malware variant expands targets with 13 router exploits
+
+MySQL servers hit by DDoS malware botnet _ TechRadar
+
+MySQL servers targeted by 'Ddostf' DDoS-as-a-Service botnet
+
+1. Creating an input device driver — The Linux Kernel documentation
+
+2. Programming gameport drivers — The Linux Kernel documentation
+
+3. Keyboard notifier — The Linux Kernel documentation
+
+assembly - How to run a program without an operating system_ - Stack Overflow
+
+c - Linux x86_64 assembly socket programming - Stack Overflow
+
+Create a customized Ubuntu Live USB [duplicate] - Ask Ubuntu
+
+networking - How to display network traffic in the terminal_ - Ask Ubuntu
+
+xorg - How to intercept all keystrokes - Ask Ubuntu
+
+comptia-linux-xk0-005-exam-objectives-(1-0)
+
+Assembly Language Step-By-Step - Programming with Linux, 3rd edition (Wiley, 2009, 0470497025)
+
+6.S096: Introduction to C/C++ Frank Li, Tom Lieber, Kyle Murray Lecture 3: C Memory Management January 15, 2013
+
+What Every Programmer Should Know About Memory Ulrich Drepper November 21, 2007
+
+Driver-specific documentation — The Linux Kernel documentation
+
+GCK'S FILE SIGNATURES TABLE
+
+SEED Labs – Firewall Evasion Lab: Bypassing Firewalls using VPN
+
+How to Create a Custom Ubuntu Live CD or USB the Easy Way
+
+How to create a custom Ubuntu live from scratch _ by Marcos Vallim _ ITNEXT
+
+How to Customize Ubuntu ISO to Create Your Own Spin
+
+How to Extract a .tar.gz File Using Command Line in Ubuntu
+
+How to bypass a firewall by Pei Guo Master Media Informatics
+
+How to use bash array in a shell script
+
+How to change from default to alternative Python version on Debian Linux
+
+Bash Scripting Tutorial for Beginners
+
+Linux errors on boot
+
+x11 - how to proxy key presses - Unix & Linux Stack Exchange
+
+Top 5 Most Popular Types of PLC Programming Languages
+
+Sending key presses to specific windows in XPython
+
+'x86' tag wiki - Stack Overflow
+
+The Linux keyboard driver _ Linux Journal
+
+od command in linux with examples
+
+Writing a Simple Operating System | from Scratch by Nick Blundell
+
+OWASP_Stammtisch_Frankfurt_-_Web_Application_Firewall_Bypassing_-_how_to_defeat_the_blue_team_-_2015.10.29
+
+OSINT_Handbook_June-2018_Final
+
+math.uaa.alaska.edu/~afkjm/csce211/handouts/RandomFunctions.pdf
+// C++ random functions
+
+x.org/releases/current/doc/libX11/libX11/libX11.html
+//Xlib - C Language X Interface
+
+
+
+
+
 ############################
 ####### Other pt 2 #########
 
