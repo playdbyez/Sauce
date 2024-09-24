@@ -1,7 +1,6 @@
-######################
-####### Other #########
 
 ###### C++ #########
+
 6.S096: Introduction to C/C++ Frank Li, Tom Lieber, Kyle Murray Lecture 3: C Memory Management January 15, 2013
 
 google C++ unit test
@@ -11,6 +10,9 @@ borland c++
 Random Number Generation C++
 
 C++ tricks for competitive programming (for C++ 11)
+
+Primer5th
+http://www.informit.com/title/0321714113
 
 C++ CrashCorse Book
 https://ccc.codes/#errata
@@ -39,11 +41,68 @@ youtube.com/watch?v=wxARfnS1-VA
 // C supportin resources
 
 
+pubs.opengroup.org/onlinepubs/009604499/functions/socket.html 
+"Connect to a remote machine with c socket"
+//stackoverflw
+
 github.com/apsrcreatix/Socket-Programming-With-C
 // Sockets Book Resource
 
 x.org/releases/current/doc/libX11/libX11/libX11.html
 //Xlib - C Language X Interface
+
+cboard.cprogramming.com/
+
+cprogramming.com/
+
+
+###### Shell #######
+
+linuxconfig.org/bash-scripting-tutorial-for-beginners
+//Bash Scripting Tutorial for Beginners
+
+xmodulo.com/tcp-udp-socket-bash-shell.html
+//sockets tutorial
+
+linuxconfig.org/how-to-use-arrays-in-bash-script
+//How to use bash array in a shell script
+
+exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
+//Building your own Shell-codes
+
+
+##### Forens #######
+
+researchgate.net/publication/228880633_Legal_methods_of_using_computer_forensics_techniques_for_computer_crime_analysis_and_investigation
+//Legal methods of using computer forensics
+
+cs.harvard.edu/malan/publications/aff.pdf
+loc.gov/preservation/digital/formats/fdd/fdd000412.shtml
+//FORENSIC DISK IMAGING
+
+Forensic Analytics CSAS v3
+
+
+
+###### Pinout #####
+
+Automobile GSM / CDMA data to Automaker's Systems via SMS text
+
+Airscanner Mobile Security
+
+IMSI mobile
+
+AdBlock PlusIMSI mobile
+
+sensepost.com/blog/2022/sim-hijacking/
+
+>https://grouper.ieee.org/groups/msc/
+//Microprocessor Standards Committee
+
+https://pinoutguide.com/
+//Hardware Pins
+
+
 
 
 
@@ -77,7 +136,6 @@ https://github.com/JohnHammond/bbfuzzer
 
 > owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist
 
-> Forensic Analytics CSAS v3
 
 >Folly/facebookAPI
 
@@ -135,21 +193,11 @@ https://github.com/JohnHammond/bbfuzzer
 
 
 
-
-
-pubs.opengroup.org/onlinepubs/009604499/functions/socket.html 
-xmodulo.com/tcp-udp-socket-bash-shell.html
-
-//sockets tutorial
-
-"Connect to a remote machine with c socket"
-//stackoverflw
-
 >wondershare.com/password/password-cracker-tools.html
 
 >hackingarticles.in/beginner-guide-john-the-ripper-part-1/
 
->sensepost.com/blog/2022/sim-hijacking/
+
 
 >facebook.com/106745967565548/posts/hacking-wifi-using-termux-app-in-android-phoned-need-rootfirst-install-termux-and-op/106911080882370/
 
@@ -165,14 +213,11 @@ xmodulo.com/tcp-udp-socket-bash-shell.html
 
 >https://www.techncyber.com/2017/09/hacking-with-termux-app.html
 
->https://grouper.ieee.org/groups/msc/
-//Microprocessor Standards Committee
 
 >hspcx.blogspot.com/2021/05/derrubando-redes-wifi-com-airmon-ng-pdf.html>m=1
 
->https://www.exploit-db.com/docs/english/13610-building-your-own-ud-shellcodes-part-1.pdf
 
->https://www.loc.gov/preservation/digital/formats/fdd/fdd000412.shtml
+
 
 >https://ine.com/blog/code-blue-strengthening-healthcare-cybersecurity-defenses?utm_source=twitter&utm_medium=organic&utm_campaign=general_social&utm_content=feb_social_code-blue_blog-1&utm_term=pta
 
@@ -237,8 +282,8 @@ https://www.openwall.com/lists/oss-security/
 https://www.youtube.com/watch?v=jqjtNDtbDNI
 // Open Source News MUST
 
-https://pinoutguide.com/
-//Hardware Pins
+
+
 
 _8042_ PS_2 Controller - OSDev Wiki
 
@@ -294,11 +339,8 @@ How to Extract a .tar.gz File Using Command Line in Ubuntu
 
 How to bypass a firewall by Pei Guo Master Media Informatics
 
-How to use bash array in a shell script
 
 How to change from default to alternative Python version on Debian Linux
-
-Bash Scripting Tutorial for Beginners
 
 Linux errors on boot
 
@@ -376,11 +418,6 @@ VENONA System for attacks on security protocols
 http://www.artofasm.com/
 http://webster.cs.ucr.edu/
 
-Primer5th
-http://www.informit.com/title/0321714113
-
-https://cboard.cprogramming.com/
-https://www.cprogramming.com/
 
 https://krebsonsecurity.com/tag/dev-0537/
 https://snyk.io/blog/unintimidating-intro-to-c-cpp-vulnerabilities/
@@ -419,7 +456,7 @@ Aurora explt (exploit-db.com/exploits/11167)
 >NoScript extension ffox
 >ScritpBlock extension chrome
 >TorGuard
->AdBlock Plus
+>AdBlock PlusIMSI mobile
 >Ghostery
 >IMSI mobile
 >UIDH - Unique IDentifier Header
@@ -766,8 +803,5 @@ https://www.ijraset.com/best-journal/generative-adversarial-network-ganto-genera
 //Generative Advers Networks
 
 
-
-researchgate.net/publication/228880633_Legal_methods_of_using_computer_forensics_techniques_for_computer_crime_analysis_and_investigation
-//Legal methods of using computer forensics
 
 
