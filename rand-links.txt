@@ -1,14 +1,61 @@
 ######################
 ####### Other #########
 
+###### C++ #########
+6.S096: Introduction to C/C++ Frank Li, Tom Lieber, Kyle Murray Lecture 3: C Memory Management January 15, 2013
+
+google C++ unit test
+
+borland c++
+
+Random Number Generation C++
+
+C++ tricks for competitive programming (for C++ 11)
+
+C++ CrashCorse Book
+https://ccc.codes/#errata
+
+linuxhowtos.org/C_C++/socket.htm
+
+math.uaa.alaska.edu/~afkjm/csce211/handouts/RandomFunctions.pdf
+// C++ random functions
+
+pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
+// C++ classes
+
+simplilearn.com/tutorials/cpp-tutorial/classes-in-cpp
+//Classes in C++: Declaration And Implementation of Classes
+
+pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
+
+
+##### C ######
+
+cprogramming.com/tutorial/computersciencetheory/sortcomp.html
+
+c - Linux x86_64 assembly socket programming - Stack Overflow
+
+youtube.com/watch?v=wxARfnS1-VA
+// C supportin resources
+
+
+github.com/apsrcreatix/Socket-Programming-With-C
+// Sockets Book Resource
+
+x.org/releases/current/doc/libX11/libX11/libX11.html
+//Xlib - C Language X Interface
+
+
+
+
+
 >Bruce Schneier
 
 >https://dblp.org/db/journals/ns/ns2014.html (	Ken Munro:Android scraping  )
 >https://www.youtube.com/watch?v=ccWRlNP1UsY
 >https://www.kernel.org/doc/gorman/html/understand/understand006.html
 
->>https://www.youtube.com/watch?v=wxARfnS1-VA
-// C supportin resources
+
 >https://www.youtube.com/@internationalsymposiumonre1059/videos
 
 > Financial Conduct Authority certified Trading agency
@@ -66,12 +113,10 @@ https://github.com/JohnHammond/bbfuzzer
 
 >www.iplocation.net/find-ip-address
 
->cryptographic signature matching
->owasp.org/www-project-developer-guide/draft/foundations/crypto_principles/
+
 >betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
 >w.astro.berkeley.edu/~jrg/ngst/fft/fourier.html
 >betterexplained.com/articles/sorting-algorithms/
->cprogramming.com/tutorial/computersciencetheory/sortcomp.html
 >towardsdatascience.com/understanding-face-detection-with-the-viola-jones-object-detection-framework
 
 >dangerousprototypes.com/docs/Bus_Pirate
@@ -88,12 +133,13 @@ https://github.com/JohnHammond/bbfuzzer
 
 >github.com/davidsilv
 
-github.com/apsrcreatix/Socket-Programming-With-C
-// Sockets Book Resource
+
+
+
 
 pubs.opengroup.org/onlinepubs/009604499/functions/socket.html 
 xmodulo.com/tcp-udp-socket-bash-shell.html
-linuxhowtos.org/C_C++/socket.htm
+
 //sockets tutorial
 
 "Connect to a remote machine with c socket"
@@ -216,7 +262,8 @@ MySQL servers targeted by 'Ddostf' DDoS-as-a-Service botnet
 
 assembly - How to run a program without an operating system_ - Stack Overflow
 
-c - Linux x86_64 assembly socket programming - Stack Overflow
+
+
 
 Create a customized Ubuntu Live USB [duplicate] - Ask Ubuntu
 
@@ -228,7 +275,6 @@ comptia-linux-xk0-005-exam-objectives-(1-0)
 
 Assembly Language Step-By-Step - Programming with Linux, 3rd edition (Wiley, 2009, 0470497025)
 
-6.S096: Introduction to C/C++ Frank Li, Tom Lieber, Kyle Murray Lecture 3: C Memory Management January 15, 2013
 
 What Every Programmer Should Know About Memory Ulrich Drepper November 21, 2007
 
@@ -274,13 +320,15 @@ OWASP_Stammtisch_Frankfurt_-_Web_Application_Firewall_Bypassing_-_how_to_defeat_
 
 OSINT_Handbook_June-2018_Final
 
-math.uaa.alaska.edu/~afkjm/csce211/handouts/RandomFunctions.pdf
-// C++ random functions
-
-x.org/releases/current/doc/libX11/libX11/libX11.html
-//Xlib - C Language X Interface
 
 
+
+ 
+https://cryptome.org/gummy.htm
+//Impact of Artificial "Gummy" Fingers on Fingerprint Systems
+ 
+https://lspwww.epfl.ch/publications/moire/anpssftpovd.pdf
+//Protection of docs via intensity profiles
 
 
 
@@ -313,8 +361,6 @@ zurb foundation6 book
 AniManga
 https://qquing.net/bbs/board.php?bo_table=manga&wr_id=1127689&ssp_iabi=1677053101782
 
-C++ CrashCorse Book
-https://ccc.codes/#errata
 
 ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/pages/assignments/
 
@@ -622,7 +668,6 @@ F-35 fighter jet hacks
 United States Cyber Command (MD5)
 Cold war model MAD: Mutually Assured Destruction
 Multex threads
-google C++ unit test
 Verizion Databreach Investigation Team
 Electronic Fronteer Foundation
 Internet Governance Project
@@ -648,23 +693,22 @@ AZURE Fundamentals AZ-900
 Penetration Testing Certification: HTB Certified Penetration Testing Specialist (HTBCPTS)
 
 
-Classes in C++: Declaration And Implementation of Classes
 
-https://pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
+
+
+
 
 Cyber operations_building, defending and attacking modern computer networks 
 
 A straight forward guide towrds ethical hacking and cyber security
 
-https://www.uobabylon.edu.iq/eprints/publication_11_1011_1448.pdf
-//Lecture 3 Cryptography
 
 HOW TO REDUCE EXECUTION TIME ~ Amit Bansal, Vipin Babbar [PDF]
 
 Metasploitable_SSH_Brute Force - charlesreid1
 Metasploitable_SSH_Exploits - charlesreid1
 
-borland c++
+
 
 https://www.codecademy.com/article/what-is-incident-response
 
@@ -678,8 +722,6 @@ www.simplilearn.com/what-is-steganography-article
 https://media.defense.gov/2023/Oct/05/2003314578/-1/-1/0/JOINT_CSA_TOP_TEN_MISCONFIGURATIONS_TLP-CLEAR.PDF
 //NSA and CISA Red and Blue Teams Share Top Ten Cybersecurity Misconfigurations (Oct 2023)
 
-pages.cs.wisc.edu/~hasti/cs368/CppTutorial/NOTES/CLASSES-INTRO.html
-// C++ classes
 
 https://www.eggwall.com/2011/09/
 //TechBlog
@@ -723,8 +765,6 @@ https://www.ijraset.com/
 https://www.ijraset.com/best-journal/generative-adversarial-network-ganto-generate-realistic-images
 //Generative Advers Networks
 
-
-C++ tricks for competitive programming (for C++ 11)
 
 
 researchgate.net/publication/228880633_Legal_methods_of_using_computer_forensics_techniques_for_computer_crime_analysis_and_investigation
