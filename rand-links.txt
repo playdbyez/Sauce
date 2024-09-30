@@ -94,6 +94,22 @@ IMSI mobile
 
 AdBlock PlusIMSI mobile
 
+cs1.tf.fau.de/research/system-security-group/frost/
+// Cold battery mobile Ram-scraping
+
+imf-conference.org/imf2014/docs/Mueller.imf.2014.pdf
+wikicfp.com/cfp/servlet/event.showcfp?eventid=132555&copyownerid=45217
+//Android Scraping
+
+
+ieeexplore.ieee.org/xpl/conhome/5504620/proceeding
+//Experimental analysis of automobile
+
+csis.gmu.edu/ksun/publications/TrustICE-dsn2015.pdf
+proceedings.com/27866.html
+wikicfp.com/cfp/servlet/event.showcfp?eventid=40136&copyownerid=51678
+//  Isolated mobile computing
+
 sensepost.com/blog/2022/sim-hijacking/
 
 >https://grouper.ieee.org/groups/msc/
@@ -101,6 +117,7 @@ sensepost.com/blog/2022/sim-hijacking/
 
 https://pinoutguide.com/
 //Hardware Pins
+
 
 
 
@@ -371,6 +388,113 @@ https://cryptome.org/gummy.htm
  
 https://lspwww.epfl.ch/publications/moire/anpssftpovd.pdf
 //Protection of docs via intensity profiles
+
+
+MEMORY
+
+https://www.youtube.com/watch?v=WYuhJzngfVc
+//JHam hiding from memory scans
+
+https://ftp.gnu.org/old-gnu/Manuals/glibc-2.2.3/html_chapter/libc_3.html
+// Manual Basic
+
+Windows via C/C++ 
+Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking
+// books on mem
+
+csoonline.com/article/537628/malware-cybercrime-dexter-malware-infects-point-of-sale-systems-worldwide-researchers-say.html
+// Point of Sale malware
+
+wired.com/wp-content/uploads/2014/09/wp-pos-ram-scraper-malware.pdf
+// Point of Sale ram scraper
+
+siliconangle.com/2014/02/03/chewbacca-point-of-sale-malware-caught-stealing-credit-card-data/
+// Point of Sale 2014
+
+https://link.springer.com/chapter/10.1007/978-3-540-68979-9_5
+// Embedded Trusted Computing with Authenticated Non-volatile Memory
+
+https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf
+//
+
+https://www.blackhat.com/presentations/bh-usa-09/CHEN/BHUSA09-Chen-RevAppleFirm-PAPER.pdf
+//Reversing and exploiting an Apple firmware update
+
+https://yt.christiaan008.com/?project=black-hat-usa-2010-jackpotting-automated-teller-machines-redux-15
+//Redux
+
+
+flashpoint.io/blog/dmsniff-pos-malware-actively-leveraged-target-medium-sized-businesses/
+// DMSniff
+
+dblp.org/db/journals/sigarch/sigarch39.html
+cl.cam.ac.uk/research/srg/han/ACS-P35/readinglist/post233s2-file2.pdf
+// Gem5 Simulator
+
+youtube.com/watch?v=fXthwl6ShOg
+media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20Program.pdf
+// Direct memory attack the kernel
+
+2014.ruxconbreakpoint.com/assets/2014/slides/bpx-NSA%20Playset-%20PCIe%20-%20Breakpoint%202014c.pdf
+youtube.com/watch?v=ZcBAq4GRuZ4
+// PCIE 
+
+
+
+
+INJECTION
+
+https://www.blackhat.com/docs/us-15/materials/us-15-Hudson-Thunderstrike-2-Sith-Strike.pdf
+https://darkmentor.com/prior-work/2015-08-blackhatusa/
+
+
+https://www.youtube.com/watch?v=i9ULYwRK1iU
+//Windows 8 secure boot
+
+https://papers.put.as/papers/firmware/2014/HITB2014KUL-SENTER-Sandman.pdf
+https://darkmentor.com/prior-work/2014-06-summercon/
+
+https://darkmentor.com/prior-work/2015-10-hitbgsec/
+// BIOS necromancy
+
+https://www.welivesecurity.com/2018/09/27/lojax-first-uefi-rootkit-found-wild-courtesy-sednit-group/
+https://www.youtube.com/watch?v=P3yMXspLzoY
+
+https://www.youtube.com/watch?v=A1V6vO63Kvs
+https://media.blackhat.com/bh-us-11/Miller/BH_US_11_Miller_Battery_Firmware_Public_WP.pdf
+//Battery firmware
+
+https://dl.acm.org/doi/proceedings/10.5555/2341444
+
+https://safari.ethz.ch/digitaltechnik/spring2020/lib/exe/fetch.php?media=20190603-rambleed-web-2.pdf
+https://researchr.org/publication/embc-2019
+// Ram-bleed
+
+https://core.ac.uk/download/pdf/277527637.pdf
+https://core.ac.uk/download/pdf/277527615.pdf
+// Logic controlllers
+
+https://www.usenix.org/legacy/event/sec08/tech/full_papers/halderman/halderman.pdf
+https://www.youtube.com/watch?v=JDaicPIgn9U
+//Cold Boots
+
+
+https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/bacha-isca13.pdf
+https://arxiv.org/pdf/2209.12134.pdf
+https://web.cse.ohio-state.edu/~teodorescu.1/resources/papers/bacha-micro14.pdf
+https://anysbacha.github.io/publications/bacha_micro15.pdf
+//Dynamic Reduction of Voltage Margins On ECC chip
+// Authenticache
+
+http://www.wcse.org/WCSE%202021/05.pdf
+//Vuln uefi
+
+https://www.whitehouse.gov/wp-content/uploads/2024/02/PCAST_Cyber-Physical-Resilience-Report_Feb2024.pdf
+
+https://scadahacker.com/library/Documents/ICS_Vulnerabilities/DigitalBond%20-%20Leverage%20Ethernet%20Vulnerabilities%20in%20Field%20Devices.pdf
+
+https://netsec.ethz.ch/publications/papers/li_mccune_perrig_viper_ccs2011.pdf
+
 
 
 
