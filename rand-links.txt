@@ -123,6 +123,9 @@ https://pinoutguide.com/
 
 
 
+paulkocher.com/
+rwc.iacr.org/2018/Slides/Horn.pdf
+//Spectre execution
 
 
 >Bruce Schneier
