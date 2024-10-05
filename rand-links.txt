@@ -125,6 +125,8 @@ https://pinoutguide.com/
 
 paulkocher.com/
 rwc.iacr.org/2018/Slides/Horn.pdf
+www.computer.org/csdl/proceedings/2019/sp/1dlwgmOlI6A
+www.ieee-security.org/TC/SP2019/
 //Spectre execution
 
 
