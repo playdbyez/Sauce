@@ -172,3 +172,28 @@ GENERIC to broaden knowledge in a topic.
 FOCUSED on transactions.
 (USER is BUYING)
 
+=========================================================
+
+
+Domain Deployment
+
+[] Encode input/output and data sources to common character set before processing requests 
+[] Validate data from redirects
+[] Use an allowed list for data types
+[] Limit the number of user actions per hour in order to deter automated attacks
+[] Sanitize untrusted data queries for SQL, XML and LDAP
+
+[] Canonicalization entails specifing a single character set as encoding for connections and output/input data
+[] Canonicalization is an effective way of addressing obfuscation attacks
+
+[] Header values for requests and responses should contain only ASCII
+[] Refer headers should never be a sole method of validation as they can be spoofed
+[] Disable unecessary HTTP methods
+[] Define which HTTP method to support and if it will be handled differently per page (GET or POST)
+[] Only use POST requests to transmit authentication credentials
+
+[] Utilize a single configured TLS implementation for HTTP connections 
+[] TLS should implement domain checks, expiration checks and intermediate certificate checks
+[] Set cookies attribute to 'secure' when used over TLS
+
+
