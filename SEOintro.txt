@@ -177,11 +177,13 @@ FOCUSED on transactions.
 
 Domain Deployment
 
-[] Encode input/output and data sources to common character set before processing requests 
+[] Encode input/output and data sources to common character set before processing requests
+[] Validate authentication data only if all input was supplied
 [] Validate data from redirects
 [] Use an allowed list for data types
-[] Limit the number of user actions per hour in order to deter automated attacks
 [] Sanitize untrusted data queries for SQL, XML and LDAP
+[] Conduct input validation and output encoding on server-side
+[] Specify character encoding for all connections
 
 [] Canonicalization entails specifing a single character set as encoding for connections and output/input data
 [] Canonicalization is an effective way of addressing obfuscation attacks
@@ -191,9 +193,48 @@ Domain Deployment
 [] Disable unecessary HTTP methods
 [] Define which HTTP method to support and if it will be handled differently per page (GET or POST)
 [] Only use POST requests to transmit authentication credentials
+[] System information must be removed from HTTP response headers (OS information, Webserver version, application framework information)
+[] Sensitive information must be removed from the HTTP referer to external services
 
 [] Utilize a single configured TLS implementation for HTTP connections 
 [] TLS should implement domain checks, expiration checks and intermediate certificate checks
 [] Set cookies attribute to 'secure' when used over TLS
+[] Set cookies attribute to 'HTTP only' 
+[] Authenticate session identifiers contained in cookies must have a restricted value for its path and domain
 
+[] Session identifiers require randomization algorithms
+[] Session identifiers should not appear in the url
+[] Generate session identifiers and periodically deactivate old ones
+[] Generate a new session identifier upon reauthentication and 
+[] Generate a new session identifier when HTTPS changes to HTTP connection
+
+[] Limit the number of user actions per hour in order to deter automated attacks
+[] Log user out if the session is active for too long
+[] Reauthenticate user prior to critical operations
+[] Enforce account disabling after several login attempts
+[] Enforce a cool-down time for password resets
+[] Do not allow concurrent log ins of the same user
+[] Notify users of password reset
+[] Prevent state tempering on client-side data
+
+[] Place directories not meant for public indexing in an isolated parent dir
+[] Prevent disclosure of dir structure from robots.txt
+[] Turn off directory listings
+
+
+[] Manage hashing authentication from server-side
+[] Authentication failures should not indicate which section was incorrect
+[] Disable unused accounts via account auditing
+[] Server-side operations must support per sesssion strong random tokens
+[] Generation of session identifiers must occur on server-side
+[] Session management controls should identify only its own authorized identifiers as valid
+[] Credential for external services must be store securely and connected only over TLS
+[] Alter default parameters when implementing third-party authentication code
+[] Inspect third-party code for known vulnerabilities
+[] Utilize an Asset Management System for registering system components
+[] Utilize an Asset Management System for software listing
+[] Utilize a Software Change Control System to log changes made to development and production code
+[] Restrict any access to direct object references
+[] Enforce authorization controls on every request including server-side scripts
+[] The access control rules on server and presentation layer must match
 
