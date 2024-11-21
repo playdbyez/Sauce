@@ -15,7 +15,7 @@
 >BOOK: Python for Cybersecurity: Using Python for Cyber Offense and Defense									[240]
 >BOOK: Web Scraping with Python, 2e: Collecting More Data from the Modern Web								[330]
 >BOOK: Math for Security (python)
-
+>BOOK: The Mythical Man-Month 1975 (Novel)
 
 >BOOK: Writing Secure Code (2nd Edition) (Developer Best Practices) 2nd edition by LeBlanc, David, Howard, Michael (2002) Paperback
 >BOOK: Designing Secure Software: A Guide for Developers											[312]
